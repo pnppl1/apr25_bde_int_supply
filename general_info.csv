@@ -1,0 +1,1042 @@
+company,website,rating,number_review,domain
+Viator.com,www.viator.com,4.4,260639,['Travel Agency']
+JustFly,justfly.com,4.2,194179,"['Travel Agency', 'Flights Search Site']"
+Vegas.com,www.vegas.com,4.6,163448,['Travel Agency']
+Gotogate,www.gotogate.com,3.1,141912,['Travel & Vacation']
+Allianz Partners USA,www.allianztravelinsurance.com,4.1,126673,"['Travel Insurance Company', 'Financial Consultant', 'Travel Agency', 'Insurance Agency']"
+Vrbo,www.vrbo.com,1.3,117752,"['Vacation Rental', 'Travel Agency']"
+FlightHub,flighthub.com,4.0,110842,"['Flights Search Site', 'Travel Agency']"
+ASAP Tickets,www.asaptickets.com,4.9,97094,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Priceline,www.priceline.com,3.8,95379,"['Travel Agency', 'Flights Search Site']"
+Way,www.way.com,3.5,75701,"['Travel Agency', 'Parking Lot']"
+CheapFareGuru,cheapfareguru.com,4.4,70924,['Travel Agency']
+AirTkt,airtkt.com,4.5,70488,['Travel Agency']
+iVisa,ivisa.com,4.4,61341,['Visa Consultant']
+SmartFares,www.smartfares.com,3.9,59271,"['Travel Agency', 'Flights Search Site']"
+AirportParkingReservations.com,www.airportparkingreservations.com,4.2,46420,"['Travel Aggregator', 'Airport Shuttle Service']"
+Guest Reservations,guestreservations.com,2.7,44893,"['Travel Aggregator', 'Hotel', 'Group Accommodation', 'Lodging', 'Travel Agency', 'Resort']"
+Ship Sticks,shipsticks.com,4.7,43384,"['Travel Agency', 'Shipping Company']"
+Reservation Counter,reservationcounter.com,3.9,41983,"['Travel Aggregator', 'Travel Agency']"
+Super.com,super.com,4.4,39913,"['Hotel', 'Alternative Financial Service', 'e-Commerce Service']"
+Headout,headout.com,4.2,39218,['Travel Agency']
+parksleepfly.com,parksleepfly.com,4.1,39038,['Travel Agency']
+AARDY,aardy.com,4.9,35330,"['Travel Insurance Company', 'Travel Agency', 'Insurance Agency', 'Financial Consultant']"
+WallyPark Airport Parking,wallypark.com,3.2,33425,"['Parking Garage', 'Valet Parking Service', 'Airport Shuttle Service', 'Parking Lot']"
+Global Airport Parking,globalairportparking.com,3.8,30278,"['Travel Agency', 'Parking Lot']"
+Go City®,gocity.com,4.3,29493,['Travel Aggregator']
+The New York Pass,newyorkpass.com,4.6,26575,['Travel Aggregator']
+CheapOair.com,www.cheapoair.com,4.2,26254,"['Travel Agency', 'Travel Aggregator']"
+Outdoorsy,www.outdoorsy.com,3.9,25825,"['Travel Agency', 'Vacation Rental', 'Lodging', 'RV Dealer', 'Recreational Vehicle Rental Agency', 'Camp']"
+Bravofly,www.bravofly.com,3.2,24680,"['Flights Search Site', 'Travel Agency', 'Car Rental Agency', 'Car Accessories Store', 'Hotel']"
+Great Value Vacations,greatvaluevacations.com,4.1,24152,"['Travel Agency', 'Tour Operator']"
+SkyLux Travel,www.skyluxtravel.com,4.8,23293,"['Airline Ticket Agency', 'Flights Search Site', 'Travel Agency']"
+EF Educational Tours,www.eftours.com,4.5,21528,"['Tour Agency', 'Travel Agency']"
+TrustedHousesitters,www.trustedhousesitters.com,4.5,20898,"['Travel Agency', 'Pet Store', 'Hobby Store']"
+Flyus.com,flyus.com,4.0,20690,"['Travel Agency', 'Flights Search Site']"
+BookIt.com,bookit.com,2.1,18656,"['Hotel', 'Flights Search Site', 'Travel Agency', 'Travel Aggregator']"
+Omio,omio.com,4.4,17834,"['Airline Ticket Agency', 'Train Ticket Agency', 'Flights Search Site', 'Bus Ticket Agency']"
+Vayama.com,www.vayama.com,1.7,17620,"['Flights Search Site', 'Travel Agency']"
+HomeExchange,www.homeexchange.com,4.7,17030,"['Tourist Attraction', 'Holiday Home', 'Holiday Accommodation Service', 'Self-Catering Accommodation', 'Homestay', 'Lodging']"
+BudgetAir.com,www.budgetair.com,2.2,16842,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency', 'Travel Aggregator', 'Car Rental Agency']"
+RVshare,rvshare.com,4.2,16647,"['Pet-Friendly Accommodation', 'Vacation Rental', 'Camp', 'Lodging', 'Travel Agency']"
+Airport Van Rental,airportvanrental.com,1.8,16396,"['Travel Agency', 'Car Accessories Store', 'Car Rental Agency']"
+Wisecars,www.wisecars.com,4.5,16277,"['Car Rental Agency', 'Search Engine Company', 'Travel Agency', 'Transportation Service']"
+Mozio,www.mozio.com,4.9,15644,"['Travel Aggregator', 'Transportation Service', 'Travel Agency', 'Web Collaboration Platform', 'Software Company']"
+Newark Airport Long Term Parking,newarklongtermparking.com,4.8,15521,"['Parking Lot', 'Travel Agency']"
+wizzair.com,www.wizzair.com,1.3,15387,"['Travel Agency', 'Airline', 'Flights Search Site']"
+Vacasa,vacasa.com,4.3,15140,"['Vacation Rental', 'Travel Agency']"
+Airbnb,www.airbnb.com,1.3,14782,['Vacation Rental']
+QEEQ.COM,qeeq.com,4.3,14687,"['Tourist Attraction', 'Travel Insurance Company', 'Car Rental Agency']"
+WorldStrides,worldstrides.com,4.2,14636,['Travel & Vacation']
+My Transfers,mytransfers.com,4.1,14489,"['Bus and Coach Company', 'Airport Shuttle Service', 'Taxi Service', 'Minibus Taxi Service']"
+parken-und-fliegen,parken-und-fliegen.de,4.4,14382,['Travel & Vacation']
+OurBus,ourbus.com,4.6,14052,"['Travel Agency', 'Bus and Coach Company', 'Bus Company', 'Bus Ticket Agency', 'Bus Charter']"
+CarDelMar,www.cardelmar.com,2.4,13890,"['Travel Agency', 'Car Rental Agency', 'Car Accessories Store']"
+Blue Ridge Mountain Rentals,www.blueridgerentals.com,4.6,13379,"['Vacation Rental', 'Vacation Home Rental Agency', 'Travel Agency']"
+Globus,globusjourneys.com,4.7,13042,"['Travel Agency', 'Tour Operator']"
+Rush My Passport,rushmypassport.com,3.5,12660,"['Travel Agency', 'Passport Office', 'Visa and Passport Office', 'Association or Organization', 'License Bureau']"
+Lufthansa,www.lufthansa.com,1.3,12626,"['Car Accessories Store', 'Airline', 'Flights Search Site']"
+EaseMyTrip,easemytrip.com,4.1,12497,['Travel Agency']
+Air Park Laguardia Airport Long Term,airparkparking.com,4.8,12488,"['Travel Agency', 'Parking Lot']"
+LatinOFare,latinofare.com,4.5,12453,['Travel Agency']
+Expresso Airport Parking,www.expressoparking.com,4.6,12438,"['Parking Lot', 'Travel Agency']"
+Reservation Desk,reservationdesk.com,3.9,12036,['Travel Agency']
+Mango Tours,www.mangotours.com,4.9,11920,"['Flights Search Site', 'Travel Agency']"
+CheapAir.com,www.cheapair.com,4.5,11814,"['Airline Ticket Agency', 'Travel Aggregator', 'Flights Search Site', 'Travel Agency']"
+Passports and Visas.com,www.passportsandvisas.com,4.0,11790,"['Travel Agency', 'Visa and Passport Office', 'Visa Consultant', 'Passport Office']"
+Transavia,www.transavia.com,3.0,11757,"['Travel Agency', 'Flights Search Site', 'Airline']"
+CheapFlightNow.com,cheapflightnow.com,4.1,11662,['Travel & Vacation']
+Greyhound Bus,www.greyhound.com,3.4,11132,"['Travel Agency', 'Bus Company']"
+GalaHotels.com,www.galahotels.com,2.5,10639,"['Travel Agency', 'Hotel', 'Travel Aggregator']"
+Getaroom.com,getaroom.com,1.5,10592,['Travel Aggregator']
+HotelsOne,www.hotelsone.com,4.6,10568,"['Hotel', 'Travel Agency']"
+Hotels.com,www.hotels.com,1.3,10508,"['Travel Agency', 'Hotel']"
+FlyDealFare.com,www.flydealfare.com,5.0,10380,"['Travel Agency', 'Flights Search Site']"
+Business-Class.com,business-class.com,4.7,10282,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Indian Eagle,indianeagle.com,4.9,10235,"['Travel Agency', 'Flights Search Site']"
+Expedia,www.expedia.com,1.2,10149,"['Travel Aggregator', 'Travel Agency']"
+FareObuddy,fareobuddy.com,4.9,9912,['Travel Agency']
+Travelopod,travelopod.com,4.9,9591,"['Travel Agency', 'Flights Search Site', 'Cultural Tours Provider']"
+Sky-Tours,www.sky-tours.com,2.6,9391,"['Flights Search Site', 'Travel Agency', 'Tour Operator']"
+Direct Line Cruises,directlinecruises.com,4.9,9384,"['Cruise Travel Agency', 'Travel Agency', 'Cruise Agency']"
+Ovago,ovago.com,4.1,9379,"['Travel Aggregator', 'Flights Search Site', 'Airline Ticket Agency', 'Travel Agency', 'Hotel']"
+ExploreTrip,exploretrip.com,3.1,9315,"['Travel Agency', 'Flights Search Site', 'Travel Aggregator']"
+Traveluro.com,splittytravel.com,3.3,9279,"['Travel Agency', 'Hotel', 'Travel Aggregator']"
+CheapFlightsFares,cheapflightsfares.com,4.2,9051,['Travel Agency']
+Onestopparking.com,onestopparking.com,4.7,8994,"['Travel Agency', 'Parking Lot']"
+Maya Mobile,maya.net,4.6,8980,"['Telecommunications Service Provider', 'Mobile Network Operator', 'Travel Aggregator']"
+Park Ride Fly USA,parkrideflyusa.com,3.7,8840,['Airport Shuttle Service']
+Jiffy Airport Parking - Newark,jiffynewark.com,4.5,8795,['Airport Shuttle Service']
+Extranomical Tours,www.extranomical.com,4.7,8724,"['Travel Agency', 'Tour Operator']"
+Rightway Parking,rightwayparking.com,4.5,8677,"['Parking Garage', 'Valet Parking Service', 'Public Parking Space', 'Parking Lot', 'Cruise Travel Agency', 'Travel Aggregator']"
+Travelocity,www.travelocity.com,1.3,8644,"['Travel Aggregator', 'Travel Agency']"
+VFS GLOBAL SERVICES PRIVATE LIMITED,vfsglobal.co.uk,4.8,8271,"['Visa and Passport Office', 'Visa Consultant']"
+Lyft,www.lyft.com,1.2,8192,"['Travel Agency', 'Taxi Service']"
+Big Bear Cool Cabins,bigbearcoolcabins.com,4.3,8185,"['Travel Agency', 'Vacation Rental']"
+Spot Pet Insurance,spotpet.com,4.7,8169,"['Pet-Friendly Accommodation', 'Pet Insurance Company', 'Insurance Company', 'Emergency Veterinarian Service', 'Veterinarian']"
+Fly Away Airport Parking,flyawayparking.com,3.2,8146,"['Parking Lot', 'Travel Agency']"
+Dayuse.com,dayuse.com,4.8,8129,"['Hotel', 'Travel Agency']"
+Visit A City,visitacity.com,4.3,7930,['Travel Agency']
+WowFare,wowfare.com,4.9,7889,"['Hotel', 'Airline Ticket Agency', 'Travel Agency', 'Flights Search Site']"
+RedAwning Vacation Rentals,redawning.com,3.8,7381,"['Vacation Rental', 'Holiday Accommodation Service', 'Vacation Home Rental Agency', 'Lodging', 'Short Term Apartment Rental Agency', 'Condominium Rental Agency']"
+Elife,www.elifelimo.com,4.6,7260,"['Airport Shuttle Service', 'Limousine Service', 'Taxi Service', 'Transportation Service', 'Bus and Coach Company']"
+Kingdom Strollers,kingdomstrollers.com,4.8,6823,['Vacation Rental']
+My Tickets To India,myticketstoindia.com,4.8,6724,"['Travel Agency', 'Flights Search Site']"
+Shore Excursions Group,shoreexcursionsgroup.com,4.3,6666,"['Tour Operator', 'Tour Agency', 'Cultural Tours Provider', 'Sightseeing Tour Agency', 'Travel Agency']"
+CityPASS®,www.citypass.com,4.7,6665,['Sightseeing Tour Agency']
+VisitorsCoverage Inc.,visitorscoverage.com,4.8,6650,"['Travel Insurance Company', 'Travel Agency']"
+Passport Visas Express.com,passportvisasexpress.com,4.8,6569,"['Visa Consultant', 'Travel Agency', 'Passport Photo Processor', 'Visa and Passport Office', 'Passport Office']"
+Rail Ninja,rail.ninja,3.2,6455,"['Travel Agency', 'Train Ticket Agency']"
+RedWeek,www.redweek.com,4.6,6453,"['Vacation Rental', 'Travel Agency']"
+BookOnline,bookonline.com,3.8,6441,['Travel Aggregator']
+Flex Pay (formerly Uplift),uplift.com,4.7,6354,['Travel & Vacation']
+Justairticket,justairticket.com,4.6,6319,['Travel Agency']
+Hop2.com,hop2.com,4.4,6269,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+ResortPass,resortpass.com,3.4,6256,"['Resort', 'Luxury Hotel', 'Day Spa', 'Spa Resort', 'Online Marketplace', 'Travel Aggregator']"
+HotelPlanner.com,www.hotelplanner.com,3.9,6153,['Travel Agency']
+Travelopick,travelopick.com,4.4,6124,"['Airline Ticket Agency', 'Travel Agency']"
+Hipcamp,www.hipcamp.com,4.1,5915,"['Travel Agency', 'Self-Catering Accommodation', 'Holiday Accommodation Service', 'Lodging', 'Pet-Friendly Accommodation', 'Vacation Rental']"
+American Cruise Lines,americancruiselines.com,4.8,5851,['Cruise Line Company']
+Red Beam Garage,redbeamgarage.com,4.5,5717,"['Parking Lot', 'Travel Agency']"
+Platypus Tours Limited,platypustours.com,4.9,5715,"['Sightseeing Tour Agency', 'Bus Tour Agency', 'Tour Operator']"
+Ski.com,www.ski.com,4.9,5616,"['Travel Agency', 'Ski Holidays']"
+GovAssist LLC,govassist.com,4.2,5578,"['Visa Consultant', 'Consultant', 'Travel Agency']"
+Maverick Helicopters,www.maverickhelicopter.com,4.8,5537,"['Helicopter Tour Agency', 'Helicopter Charter', 'Tour Operator', 'Wedding Venue', 'Sightseeing Tour Agency']"
+Salzburg Panorama Tours,panoramatours.com,4.8,5524,"['Travel Agency', 'Tour Operator']"
+Flights Mojo,www.flightsmojo.com,4.0,5352,"['Travel Agency', 'Travel Aggregator', 'Flights Search Site']"
+Fareboom,fareboom.com,4.5,5253,['Travel Agency']
+eSky Travel,esky.com,2.8,5217,['Travel Agency']
+Onetravel,www.onetravel.com,4.1,5093,"['Travel Agency', 'Travel Aggregator']"
+Evolve,evolve.com,3.8,5006,['Vacation Rental']
+Vacations By Rail,vacationsbyrail.com,4.6,4930,['Tour Operator']
+Hoteling,hoteling.com,4.4,4905,"['Hotel', 'Travel Agency']"
+Airparks,airparks.de,4.5,4869,['Travel & Vacation']
+Canyon Coolers,canyoncoolers.com,4.8,4867,"['Hobby Store', 'Hunting Store', 'Camping Store', 'Raft Trip Outfitter', 'Outdoor Sports Store', 'Sportwear Manufacturer']"
+iCruise.com,icruise.com,3.2,4816,"['Travel Agency', 'Cruise Agency']"
+Tarifasodeal,tarifasodeal.com,3.9,4815,['Travel Agency']
+budgetair.com/en_us,budgetair.com/en_us,3.4,4807,"['Travel Agency', 'Airline Ticket Agency', 'Travel Aggregator', 'Car Rental Agency', 'Flights Search Site']"
+Dive Right In Scuba,www.diverightinscuba.com,4.8,4718,"['Sporting Goods Store', 'Recreation Center', 'Indoor Swimming Pool', 'Dive Shop', 'SCUBA Instructor', 'SCUBA Tour Agency']"
+Diamond Resorts,www.diamondresorts.com,1.4,4633,"['Hotel', 'Travel Agency']"
+TurnKey Vacation Rentals,turnkeyvr.com,3.6,4531,"['Travel Agency', 'Vacation Rental']"
+Qatar Airways,www.qatarairways.com,1.6,4484,"['Flights Search Site', 'Travel Agency', 'Airline']"
+Turkish Airlines,www.turkishairlines.com,1.4,4467,"['Travel Agency', 'Flights Search Site']"
+Travel Document Systems,traveldocs.com,4.0,4444,['Travel Agency']
+Travoport,travoport.com,4.1,4331,"['Flights Search Site', 'Travel Agency']"
+Luggage Free,luggagefree.com,4.7,4317,['Travel Agency']
+BlueSun Vacations,bluesunvacations.com,2.7,4215,"['Travel Agency', 'Flights Search Site', 'Hotel']"
+Fareporto,fareporto.com,4.2,4186,['Travel Agency']
+Tripbeam.com,tripbeam.com,4.9,4036,"['Travel Agency', 'Flights Search Site']"
+Sporty's Pilot Shop,sportys.com,4.5,4024,"['Aviation Training Institute', 'Aircraft Supply Store', 'Electronics Store', 'Bags and Luggage Store', 'Airport']"
+Mintfares.com,mintfares.com,4.9,4012,"['Travel Agency', 'Flights Search Site']"
+Vacation Express,vacationexpress.com,3.3,3962,"['Tour Operator', 'Travel Agency', 'Hotel', 'Flights Search Site']"
+Bivvy Pet Insurance,bivvy.com,4.6,3864,"['Insurance Company', 'Emergency Veterinarian Service', 'Pet Insurance Company', 'Animal Shelter', 'Pet-Friendly Accommodation', 'Animal Rescue Service']"
+TAP Portugal,www.flytap.com,1.3,3683,"['Airline', 'Flights Search Site', 'Travel Agency']"
+Jiffy Airport Parking - JFK,jiffyjfk.com,4.5,3637,"['Parking Lot', 'Travel Agency']"
+Tripadvisor,www.tripadvisor.com,1.9,3558,"['Financial Consultant', 'Flights Search Site', 'Hotel', 'Travel Agency', 'Price Comparison Site']"
+AAA,aaa.com,1.6,3522,"['Travel Aggregator', 'Tour Operator', 'Travel Agency']"
+RedCoach,redcoachusa.com,3.5,3489,"['Bus Charter', 'Travel Agency', 'Bus Company', 'Bus and Coach Company', 'Transportation Service']"
+Wanderu,www.wanderu.com,4.8,3475,"['Travel Aggregator', 'Travel Agency']"
+misterb&b,www.misterbandb.com,4.2,3440,"['Vacation Rental', 'Travel Agency']"
+Ezee Flights,ezeeflights.com,4.7,3432,['Travel Agency']
+Urban Adventure Quest,urbanadventurequest.com,4.6,3411,"['Tour Operator', 'Sightseeing Tour Agency', 'History Museum']"
+The Sightseeing Pass,sightseeingpass.com,1.5,3382,"['Travel Agency', 'Travel Aggregator']"
+Booksi,booksi.com,3.7,3370,"['Budget Hotel', 'Vacation Rental', 'Family Hotel', 'Luxury Hotel', 'Travel Aggregator', 'Hotel']"
+Monster Reservations Group,monsterrg.com,4.6,3364,['Travel & Vacation']
+THE RIDE NYC,experiencetheride.com,3.7,3301,"['Bus Tour Agency', 'Hobby Store']"
+EF Explore America,efexploreamerica.com,4.6,3288,"['Tour Agency', 'Travel Agency']"
+Expertosenvuelo.com,expertosenvuelo.com,4.5,3288,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency', 'Tour Operator']"
+CrystalTravel.com,www.crystaltravel.us,4.8,3255,['Travel Agency']
+TripInsure101,tripinsure101.com,4.9,3242,"['Insurance Agency', 'Travel Agency', 'Travel Insurance Company', 'Financial Consultant']"
+AranGrant,arangrant.com,4.6,3235,"['Flights Search Site', 'Airline Ticket Agency', 'Travel Agency', 'Hotel']"
+Flycheapestonline,flycheapestonline.com,4.7,3227,"['Flights Search Site', 'Tour Operator', 'Travel Agency', 'Airline Ticket Agency']"
+Harvest Hosts,harvesthosts.com,4.8,3225,['Travel Agency']
+RussianTrains.com,russiantrains.com,4.7,3199,"['Travel Agency', 'Train Ticket Agency']"
+Alpha Flight Guru,alphaflightguru.com,4.0,3187,"['Travel Agency', 'Flights Search Site', 'Hotel']"
+PIT Stop Parking,www.pitstopparking.com,4.8,3148,"['Travel Agency', 'Parking Lot']"
+Cheapfaremart,cheapfaremart.com,4.7,3129,['Travel Agency']
+Inspirock,inspirock.com,4.6,3089,"['Travel Aggregator', 'Software Company']"
+Travel Visa Pro,travelvisapro.com,4.8,3062,"['Association or Organization', 'Travel Agency', 'Passport Office', 'Visa Consultant', 'License Bureau', 'Visa and Passport Office']"
+Pay Later Travel,paylatertravel.com,4.7,3006,"['Travel Agency', 'Payment Service']"
+Price 4 Limo,price4limo.com,4.8,2964,"['Travel Agency', 'Travel Aggregator', 'Bus and Coach Company', 'Bus Charter', 'Limousine Service']"
+ShipGo,shipgo.com,4.8,2952,['Serviced Accommodation']
+MSC Cruises,www.msccruisesusa.com,1.7,2882,"['Cruise Agency', 'Travel Agency']"
+Pegasus Airlines,www.flypgs.com,1.6,2840,"['Travel Agency', 'Airline', 'Flights Search Site']"
+TripAdvisor,www.tripadvisor.jp,3.4,2829,"['Media Company', 'Travel Agency', 'Price Comparison Site', 'Financial Consultant', 'Flights Search Site', 'Hotel', 'Review Site']"
+Cookly,cookly.me,4.5,2824,['Travel & Vacation']
+WebstaurantStore,webstaurantstore.com,3.8,2801,"['Restaurant Supply Store', 'Food Products Supplier', 'Hotel Supply Store', 'Baking Supply Store', 'Commercial Refrigeration', 'Bar Restaurant Furniture Store']"
+Cosmos,cosmos.com,4.5,2785,['Travel & Vacation']
+Affordable World,affordableworld.com,4.5,2740,"['Travel Agency', 'Tour Operator']"
+Landing,hellolanding.com,4.2,2734,"['Pet-Friendly Accommodation', 'Apartment Building', 'Furnished Apartment Building']"
+Big Bus Tours Washington DC,bigbustours.com/washington,1.1,2679,"['Tour Operator', 'Travel Agency']"
+Travelation,travelation.com,4.1,2675,['Airline Ticket Agency']
+Nustay,nustay.com,3.3,2667,"['Hotel', 'Travel Agency']"
+TopBusinessClass,topbusinessclass.com,4.8,2655,"['Airline Ticket Agency', 'Flights Search Site', 'Travel Agency']"
+Park 'N Fly (USA),pnf.com,4.8,2615,['Travel & Vacation']
+AffordableTours.com,affordabletours.com,4.8,2614,"['Travel Agency', 'Cultural Tours Provider', 'Cruise Agency', 'Travel Aggregator']"
+Flyodeals,flyodeals.com,4.4,2594,"['Travel Agency', 'Flights Search Site', 'Travel Aggregator', 'Airline Ticket Agency']"
+Flights Channel LLC,flightschannel.com,3.4,2584,['Travel Agency']
+Foggyfly,foggyfly.com,3.6,2569,['Travel Agency']
+Carolina Retreats,carolinaretreats.com,4.1,2567,"['Vacation Rental', 'Travel Agency']"
+Lookbyfare,lookbyfare.com,4.4,2547,['Travel Agency']
+Moment,shopmoment.com,4.7,2513,"['Class', 'Tour Operator', 'Camera Store', 'Electronics Store', 'Cell Phone Accessory Store', 'Photo Shop']"
+Enchanting Travels,enchantingtravels.com,4.9,2492,"['Tour Agency', 'Tour Operator']"
+Limehome,limehome.com,4.8,2484,"['Vacation Rental', 'Holiday Apartment Rental', 'Hotel', 'Holiday Accommodation Service', 'Holiday Apartment', 'Vacation Home Rental Agency']"
+Ship Skis,shipskis.com,4.8,2480,"['Travel Agency', 'Ski Holidays']"
+American Airlines,www.aa.com,1.4,2457,"['Flights Search Site', 'Travel Agency', 'Airline']"
+CruiseDirect,cruisedirect.com,4.9,2337,"['Cruise Travel Agency', 'Cruise Agency']"
+Sun Realty,sunrealtync.com,4.7,2323,"['Vacation Home Rental Agency', 'Vacation Rental', 'Real Estate Agency', 'Property Management Company']"
+TravelBusinessClass,travelbusinessclass.com,4.9,2291,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Costa Rican Vacations,www.vacationscostarica.com,4.8,2281,['Travel Agency']
+Bestairfares,www.bestairfares.com,3.6,2277,['Travel Agency']
+Cunard Line,www.cunard.com,4.6,2230,['Cruise Line Company']
+Traveljunctionus,traveljunctionus.com,4.4,2216,['Travel Agency']
+lastfaredeals,lastfaredeals.com,4.7,2212,"['Cruise Travel Agency', 'Flights Search Site', 'Travel Agency']"
+Flybackindia.com,flybackindia.com,4.8,2205,['Travel Agency']
+Five Star Properties and Bliss Beach Rentals,fivestargulfrentals.com,3.5,2180,"['Travel Agency', 'Vacation Rental']"
+ViajarAlmundo.com,viajaralmundo.com,4.0,2160,"['Airline Ticket Agency', 'Travel Agency']"
+Fat Tire Tours,www.fattiretours.com,2.7,2107,"['Travel Agency', 'Tour Operator']"
+Fareshope,fareshope.com,4.6,2094,"['Flights Search Site', 'Tour Operator', 'Airline Ticket Agency', 'Travel Agency']"
+YMT Vacations,ymtvacations.com,4.9,2075,['Tour Operator']
+Lodgify,lodgify.com,4.8,2072,"['Software Company', 'Vacation Rental', 'Holiday Accommodation Service', 'Business to Business Service']"
+Kauai Exclusive Management,www.kauaiexclusive.com,4.6,2041,"['Vacation Rental', 'Travel Agency']"
+Austrian Airlines,www.austrian.com,1.6,2024,"['Travel Aggregator', 'Tour Operator', 'Airline', 'Flights Search Site', 'Travel Agency']"
+unitedairportparking.com,unitedairportparking.com,4.6,2011,"['Travel Agency', 'Parking Lot']"
+Cheapticketsdeal,cheapticketsdeal.com,4.8,2001,['Travel Agency']
+Chatdeal,chatdeal.com,4.0,2001,['Travel Agency']
+RushPassport.com,rushpassport.com,4.9,1993,"['Travel Agency', 'Visa and Passport Office']"
+iFlyBusiness,iflybusiness.com,4.9,1992,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Let's Roam,letsroam.com,4.7,1981,"['Cultural Tours Provider', 'Tour Operator']"
+Arch RoamRight,www.roamright.com,4.7,1979,"['Travel Insurance Company', 'Travel Agency']"
+SpareRoom,spareroom.com,4.6,1972,"['Lodging', 'Condominium Rental Agency']"
+inCruises,www.incruises.com,4.2,1953,"['Travel Aggregator', 'Business Networking Company']"
+Natural Habitat Adventures,nathab.com,4.9,1951,"['Travel Agency', 'Tour Agency', 'Tour Operator']"
+The Tour Guy,thetourguy.com,4.8,1939,"['Travel Agency', 'Tour Operator']"
+Gurufare,gurufare.com,4.4,1937,"['Flights Search Site', 'Tour Agency', 'Travel Agency', 'Airline Ticket Agency']"
+Travelcation,travelcation.us,4.2,1936,['Travel Agency']
+FlyoPedia,www.flyopedia.com,4.5,1910,"['Flights Search Site', 'Travel Agency']"
+Edestinos,edestinos.com.mx,4.6,1902,['Travel & Vacation']
+Explorica US,explorica.com,3.8,1899,"['Travel Agency', 'Tour Operator']"
+Bounce Luggage Storage,usebounce.com,4.2,1876,['Travel & Vacation']
+Kensington,kensingtontours.com,4.8,1837,"['Tour Operator', 'Travel Agency']"
+MexiPass International Insurance Services,www.mexipass.com,4.9,1826,"['Travel Agency', 'Insurance Agency', 'Insurance Broker', 'Travel Insurance Company']"
+AvantStay,avantstay.com,4.7,1819,['Vacation Rental']
+MidwayParkRideFly,midwayprf.com,4.8,1799,['Travel & Vacation']
+Avalon Waterways,avalonwaterways.com,4.7,1782,['Travel & Vacation']
+Booking Bargains,bookingbargains.com,3.4,1778,['Travel & Vacation']
+VacationOffer.com,vacationoffer.com,4.0,1768,['Travel Agency']
+United Airlines,united-airlines.com,1.7,1751,"['Flights Search Site', 'Airline']"
+Aegean Airlines,aegeanair.com,1.8,1735,"['Travel Agency', 'Flights Search Site', 'Travel Aggregator']"
+Peru For Less,peruforless.com,5.0,1720,"['Tour Operator', 'Tour Agency', 'Travel Agency']"
+Pilgrim Tours,pilgrimtours.com,4.8,1708,"['Travel Agency', 'Tour Operator']"
+Fare Buzz,farebuzz.com,4.4,1685,"['Travel Aggregator', 'Travel Agency']"
+AirBusinessClass,www.airbusinessclass.com,4.8,1684,"['Airline Ticket Agency', 'Travel Agency']"
+Zicasso,www.zicasso.com,4.9,1660,"['Travel Agency', 'Cultural Tours Provider']"
+Boatsetter,www.boatsetter.com,4.7,1655,"['Boat Rental Service', 'Travel Agency', 'Yacht Broker', 'Fishing Charter', 'Online Marketplace']"
+American Patriot Getaways,patriotgetaways.com,4.6,1655,"['Vacation Rental', 'Travel Agency']"
+Top Villas,thetopvillas.com,4.5,1655,['Vacation Rental']
+MyFlightSearch,www.myflightsearch.com,1.4,1653,"['Flights Search Site', 'Hotel', 'Travel Agency']"
+Aviator Gear,aviatorgear.com,4.8,1641,"['Car Accessories Store', 'Airline']"
+Adventures on the Gorge,adventuresonthegorge.com,4.8,1637,['Travel Agency']
+Delta Air Lines,www.delta.com,1.6,1631,"['Flights Search Site', 'Travel Aggregator', 'Travel Agency']"
+Tripsta,tripsta.com,2.1,1562,['Travel & Vacation']
+Travelo1,travelo1.com,3.8,1557,"['Travel Agency', 'Flights Search Site']"
+Redeem Vacations,redeemvacations.com,4.6,1550,['Travel Aggregator']
+Flight Trotters✈️,flighttrotters.co.uk,4.2,1534,['Travel & Vacation']
+SnowPak,www.snowpak.com,4.8,1533,"['Travel Agency', 'Ski Holidays']"
+skypark.com,www.skypark.com,3.9,1531,"['Parking Lot', 'Travel Agency']"
+Travel Defenders,traveldefenders.com,4.9,1530,"['Travel Insurance Company', 'Insurance Agency', 'Financial Consultant', 'Travel Agency']"
+Faretrolley,faretrolley.com,4.8,1518,"['Hotel', 'Airline Ticket Agency', 'Bed & Breakfast']"
+@hotel,athotel.com,4.3,1512,['Travel Agency']
+Royal Air Maroc,www.royalairmaroc.com,1.3,1509,"['Airline', 'Flights Search Site', 'Travel Agency']"
+Altostravel,altostravel.com,4.7,1506,['Flights Search Site']
+Infinity Travels,theinfinitytravel.com,4.8,1495,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Edestinos,edestinos.cl,4.3,1491,['Travel & Vacation']
+LATAM Airlines,www.latam.com,1.5,1481,"['Flights Search Site', 'Tour Operator', 'Travel Agency', 'Travel Aggregator']"
+AirAdvisor,www.airadvisor.com,4.4,1479,"['Flights Search Site', 'Travel Agency']"
+Farehutz,farehutz.us,3.9,1477,['Airline Ticket Agency']
+Business Skies,business-skies.com,4.9,1464,['Airline Ticket Agency']
+Beach Reunion,beachreunion.com,4.8,1463,"['Travel Agency', 'Vacation Rental']"
+Blueground,www.theblueground.com,4.1,1458,"['Real Estate Agency', 'Travel Agency', 'Furniture Store']"
+Flightsbank,www.flightsbank.com,3.4,1430,['Travel Agency']
+Avianca,avianca.com,1.2,1429,"['Flights Search Site', 'Travel Agency', 'Airline']"
+HandyVisas,handyvisas.com,4.7,1423,['Visa Consultant']
+Reservations.com,reservations.com,2.0,1410,"['Hotel', 'Travel Agency', 'Travel Aggregator']"
+Flight Centre Independent,flightcentreindependent.co.za,4.9,1400,"['Airline Ticket Agency', 'Cruise Travel Agency', 'Travel Aggregator', 'Travel Agency']"
+Fare To India,faretoindia.com,4.9,1393,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+SKYWITHCLASS,skywithclass.com,4.9,1371,"['Travel Agency', 'Airline Ticket Agency', 'Flights Search Site']"
+Tripfur,tripfur.com,3.2,1369,"['Travel Agency', 'Flights Search Site']"
+mauiactivities.com,www.mauiactivities.com,4.7,1365,"['Travel Aggregator', 'Travel Agency', 'Tour Agency']"
+Portugal Getaways,portugalgetaways.com,4.8,1341,['Travel Agency']
+Travel Advantage,www.traveladvantage.com,4.8,1339,['Travel Agency']
+Makemytrip,www.makemytrip.com,1.2,1325,['Travel Agency']
+HomeToGo,hometogo.com,3.4,1324,['Travel Agency']
+UTOvacation,utovacation.com,1.9,1324,"['Travel Agency', 'Tour Agency', 'Tour Operator', 'Cultural Tours Provider', 'Visa and Passport Office']"
+Traveler Assistance Services,www.traveler-assistance.com,4.6,1297,"['Travel Agency', 'Travel Insurance Company']"
+Furnished Quarters,furnishedquarters.com,4.3,1294,"['Travel Agency', 'Vacation Rental']"
+Airbnb,www.airbnb.co.uk,1.3,1287,['Vacation Rental']
+Twiddy & Company,twiddy.com,1.7,1284,['Travel & Vacation']
+Skipper (formerly Jetaport),hiskipper.com,4.8,1278,['Travel Agency']
+LIVELY,wearlively.com,3.2,1278,"['Lingerie Store', 'Underwear Store', 'Lounge', ""Women's Clothing Store"", 'Activewear Store']"
+Holidu,holidu.co.uk,4.3,1264,['Travel & Vacation']
+Frontier Airlines,flyfrontier.com,1.2,1262,"['Travel Agency', 'Flights Search Site']"
+Jettly,jettly.com,3.1,1259,['Travel Agency']
+Anywhere.com,anywhere.com,4.9,1256,"['Tour Operator', 'Tour Agency', 'Travel Agency', 'Travel Aggregator']"
+Cheapbestfares,www.cheapbestfares.com,4.3,1249,['Airline Ticket Agency']
+Rockymountaingetaways,www.rockymountaingetaways.com,5.0,1239,"['Tour Agency', 'Sport Tour Agency', 'Travel Agency', 'Ski Holidays', 'Vacation Rental', 'Vacation Home Rental Agency']"
+Brett/Robinson Vacation Rentals,brett-robinson.com,2.0,1231,"['Travel Agency', 'Vacation Rental']"
+5 Star Helicopter Tours,5starhelicoptertours.com,4.3,1216,"['Travel Agency', 'Tour Operator']"
+Limos 4 Less,limos4less.com,4.7,1211,"['Airport Shuttle Service', 'Transportation Service', 'Limousine Service', 'Car Service']"
+Tripster,tripster.com,4.6,1199,['Travel Agency']
+bookmyairtravel.com,bookmyairtravel.com,4.0,1199,"['Airline Ticket Agency', 'Travel Agency']"
+Mountain High,mthigh.com,4.0,1194,"['Travel Agency', 'Ski Holidays']"
+Holafares,holafares.com,4.3,1190,['Travel & Vacation']
+US Ghost Adventures,usghostadventures.com,4.9,1187,"['Tour Operator', 'Bed & Breakfast', 'Haunted House']"
+Peony Tours,peonytours.com,4.7,1187,['Tour Operator']
+Olotels.com,olotels.com,4.0,1183,"['Hotel', 'Travel Agency']"
+hotelvalue.com,hotelvalue.com,1.0,1165,"['Travel Agency', 'Travel Aggregator', 'Vacation Rental', 'Hotel']"
+Orbitz,www.orbitz.com,1.2,1164,['Travel Agency']
+kimkim,kimkim.com,4.4,1163,"['Travel Agency', 'Tour Operator']"
+WestJet,www.westjet.com,1.4,1163,"['Airline Ticket Agency', 'Travel Agency', 'Flights Search Site']"
+VFS Global,visa.vfsglobal.com,1.8,1162,['Travel Agency']
+Cash For My Miles,cashformymiles.com,4.6,1161,"['Travel Agency', 'Flights Search Site']"
+Business Class Consolidator,businessclassconsolidator.com,4.7,1143,"['Travel Agency', 'Flights Search Site']"
+Firebird Tours,firebirdtours.com,4.7,1140,"['Cultural Tours Provider', 'Tour Operator', 'Travel Agency']"
+Timeshares Only,timesharesonly.com,4.4,1131,['Timeshare Agency']
+Big Bear Vacations,bigbearvacations.com,1.1,1128,"['Cabin Rental Agency', 'Vacation Home Rental Agency', 'Vacation Rental', 'Property Management Company', 'Mountain Cabin', 'Log Cabins']"
+Auntie Belhams Cabin Rentals,auntiebelhams.com,3.6,1123,"['Vacation Rental', 'Travel Agency']"
+Jetstar,jetstar.com,1.2,1118,"['Airline', 'Flights Search Site', 'Travel Agency']"
+HotelWiz,hotelwiz.com,2.8,1116,['Travel & Vacation']
+SkyAuction,skyauction.com,4.0,1100,"['Hotel', 'Travel Agency', 'Cruise Agency', 'Vacation Rental']"
+Spirit Airlines,www.spirit.com,1.4,1099,"['Flights Search Site', 'Travel Agency']"
+Furnished Finder,www.furnishedfinder.com,2.4,1096,"['Vacation Home Rental Agency', 'Furnished Apartment Building', 'Short Term Apartment Rental Agency', 'Apartment Rental Agency', 'Holiday Apartment Rental']"
+BuyBusinessClass,buybusinessclass.com,4.8,1094,"['Flights Search Site', 'Travel Agency', 'Airline Ticket Agency']"
+The Lodging Company,lodgingcompany.com,3.9,1092,"['Travel Agency', 'Hotel', 'Travel Insurance Company', 'Tour Operator', 'Ski Holidays', 'Vacation Rental', 'Cottage']"
+Cabify,cabify.com,1.2,1088,"['Taxi Service', 'Travel Agency', 'Transportation Service']"
+People Like Us Home Exchange,peoplelikeus.world,4.9,1087,['Homestay']
+SA Expeditions,saexpeditions.com,4.9,1085,"['Travel Agency', 'Tour Operator', 'Cruise Travel Agency', 'Cruise Agency', 'Tour Agency', 'Cultural Tours Provider']"
+Condominium Rentals Hawaii,crhmaui.com,4.4,1073,"['Vacation Rental', 'Travel Agency']"
+Norwegian Cruise Line,www.ncl.com,1.5,1068,"['Tour Operator', 'Cruise Agency', 'Travel Agency', 'Cruise Travel Agency']"
+FTLO Travel,ftlotravel.com,4.9,1062,['Tour Operator']
+Click2Book.us,click2book.us,4.1,1060,['Travel Agency']
+TS TOURS LLC,tripshock.com,2.8,1058,['Travel Agency']
+Skybooker,skybooker.com,2.2,1054,"['Flights Search Site', 'Travel Agency']"
+Driverinrome Tours and Transportation,driverinrome.com,4.9,1041,"['Travel Agency', 'Tour Operator', 'Limousine Service', 'Port Operating Company', 'Sightseeing Tour Agency', 'Transportation Service']"
+CheapDealsFare,cheapdealsfare.com,3.9,1033,['Travel Agency']
+Golf Trek,www.yourgolfpackage.com,3.4,1026,['Travel Agency']
+"Visitors Insurance - Community Insurance Agency, Inc.",www.visitorsinsurance.com,4.8,1023,"['Travel Agency', 'Life Insurance Agency', 'Health Insurance Agency', 'Travel Insurance Company', 'Insurance Broker', 'Insurance Agency']"
+Singapore Airlines,www.singaporeair.com,2.1,1023,"['Travel Agency', 'Airline', 'Flights Search Site']"
+Hotflightdeals,hotflightdeals.com,4.0,1006,['Travel Agency']
+Royal Caribbean Cruises,www.royalcaribbean.com,1.7,1000,"['Travel Agency', 'Tour Operator', 'Cruise Agency']"
+Travolie,travolie.com,4.7,999,['Travel Agency']
+360 Blue,www.360blue.com,4.3,999,"['Vacation Home Rental Agency', 'Vacation Rental']"
+Thai Airways International,www.thaiairways.com,1.7,999,"['Travel Agency', 'Car Accessories Store', 'Flights Search Site', 'Airline']"
+Knack Bags,knackbags.com,4.6,997,"['Regional Airport', 'Airline', 'Bags and Luggage Store', 'Luggage Store', 'Business Hotel', 'International Airport']"
+Virgin Voyages,virginvoyages.com,3.6,987,['Cruise Agency']
+My Fly Yatra,myflyyatra.com,4.5,982,"['Travel Agency', 'Flights Search Site']"
+The Wildland Trekking Company,wildlandtrekking.com,4.9,970,"['Travel Agency', 'Tour Operator']"
+Monarch Air Group,monarchairgroup.com,5.0,959,"['Airline', 'Car Accessories Store']"
+Pavlus Travel,pavlus.com,4.9,951,"['Tour Agency', 'Cruise Travel Agency', 'Travel Agency', 'Cruise Agency']"
+VILLATEL,villatel.com,4.7,951,['Vacation Rental']
+Five Star Alliance,fivestaralliance.com,4.9,941,"['Hotel', 'Luxury Hotel', 'Travel Agency', 'Cruise Agency', 'Travel Aggregator']"
+EasyETA.com,easyeta.com,4.8,939,"['License Bureau', 'Association or Organization', 'Travel Agency']"
+JetBlue Airways,jetblue.com,1.6,939,"['Travel Agency', 'Flights Search Site']"
+Flightmover,flightmover.com,4.0,928,"['Travel Agency', 'Airline Ticket Agency']"
+Travel Hunt Group LLC,www.bargainairticket.com,4.1,920,"['Flights Search Site', 'Travel Aggregator']"
+The Miles Market,themilesmarket.com,4.8,912,['Travel Agency']
+Irish Tourism,irishtourism.com,4.9,910,"['Travel Agency', 'Tour Operator', 'Hotel']"
+SWOODOO,swoodoo.com,1.7,905,['Travel & Vacation']
+Online Vacation Center,onlinevacationcenter.com,4.9,903,"['Cruise Travel Agency', 'Travel Agency']"
+VacationVIP.com,vacationvip.com,4.1,893,"['Hotel', 'Family Hotel', 'Travel Agency', 'Travel Aggregator', 'Resort', 'Budget Hotel']"
+goSeek,goseek.com,1.2,891,"['Travel Agency', 'Hotel', 'Financial Consultant', 'Price Comparison Site']"
+Bonzah.com,bonzah.com,4.2,889,"['Car Rental Agency', 'Travel Agency', 'Travel Insurance Company', 'Van Rental Agency', 'Liability Insurance Company', 'Car Sharing Location']"
+Above9 Travel,above9.travel,4.8,880,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Wholesale Flights Inc,wholesale-flights.com,4.8,878,['Airline Ticket Agency']
+Flightforall,www.flightforall.com,4.5,870,"['Airline', 'Car Accessories Store']"
+HawaiiTours.com,hawaiitours.com,4.6,866,"['Tour Operator', 'Sightseeing Tour Agency', 'Bus Tour Agency', 'Travel Agency', 'Cultural Tours Provider', 'Tour Agency']"
+Casablanca Express,casablancaexpress.com,1.5,862,['Travel Agency']
+Cook Travel,www.cooktravel.net,4.9,860,"['Travel Agency', 'Flights Search Site']"
+Oregon Beach Vacations,oregonbeachvacations.com,1.6,852,['Travel & Vacation']
+Southern Explorations,southernexplorations.com,4.9,850,"['Travel Agency', 'Tour Operator']"
+Egencia,www.egencia.com,3.8,847,"['Travel Agency', 'Business to Business Service', 'Travel Aggregator', 'Business Hotel', 'Flights Search Site', 'Airline Ticket Agency']"
+Guesty,guesty.com,4.5,846,"['Holiday Accommodation Service', 'Business to Business Service', 'Vacation Rental', 'Software Company']"
+Travomint US,travomint.com,4.0,844,['Travel Agency']
+SouthAmerica.travel Inc,southamerica.travel,4.2,840,"['Tour Operator', 'Travel Agency', 'Travel Aggregator', 'Cultural Tours Provider']"
+Milesandmore,www.miles-and-more.com,1.1,834,"['Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+Business Class Guru,businessclassguru.com,4.8,831,['Travel Agency']
+AirDNA,www.airdna.co,4.9,827,"['Software Company', 'Vacation Rental']"
+Tripbase,www.tripbase.com,3.3,823,['Travel Agency']
+Holidaybreakz,holidaybreakz.com,3.8,818,"['Travel Agency', 'Holiday Park', 'Cruise Travel Agency', 'Airline Ticket Agency', 'Airport Hotel']"
+Florida Vacation Homes,reunionvacationhomes.com,3.7,816,['Travel Agency']
+Morerooms,morerooms.com,4.4,815,"['Hotel', 'Travel Agency']"
+lafetravel.com,lafetravel.com,4.3,812,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency']"
+Frias Properties of Aspen Snowmass,friasproperties.com,4.6,811,"['Property Management Company', 'Vacation Home Rental Agency']"
+Cabins of the Smoky Mountains,cabinsofthesmokymountains.com,1.3,806,['Cabin Rental Agency']
+ACIS Educational Tours,acis.com,4.6,802,['Tour Agency']
+KAYAK,kayak.es,1.3,796,['Travel & Vacation']
+Next Vacay,nextvacay.com,4.6,792,['Flights Search Site']
+Inca Expert Travel,incaexpert.com,5.0,784,"['Tour Agency', 'Travel Agency', 'Tour Operator']"
+topflightfares.com,topflightfares.com,4.1,779,['Travel Agency']
+Faremart.com,faremart.com,1.8,777,['Travel Agency']
+Weed Bus LA,weedbusla.com,4.9,773,"['Bus Tour Agency', 'Limousine Service', 'Travel Agency', 'Cannabis store']"
+Summer In Italy,www.summerinitaly.com,4.8,772,"['Travel Agency', 'Vacation Rental']"
+Quasar Expeditions,quasarex.com,4.9,762,"['Tour Operator', 'Tour Agency', 'Cruise Agency', 'Travel Agency', 'Cruise Line Company']"
+momondo,momondo.de,1.3,759,"['Hotel', 'Flights Search Site']"
+Kayak,kayak.fr,1.1,749,['Hotel']
+Cheap Airport Parking,cheapairportparking.org,3.4,744,"['Travel Agency', 'Parking Garage', 'Online Marketplace', 'Airport Shuttle Service', 'Parking Lot', 'Valet Parking Service']"
+BookTickets2India,booktickets2india.com,4.8,734,['Flights Search Site']
+Going,going.com,4.5,726,"['Flights Search Site', 'Travel Aggregator', 'Airline']"
+trivago,trivago.com,1.4,726,"['Price Comparison Site', 'Financial Consultant', 'Travel Aggregator']"
+Fastport Passport,fastportpassport.com,3.8,725,"['Travel Agency', 'Association or Organization', 'License Bureau', 'Passport Office']"
+Carolina Cabin Rentals,carolinacabinrentals.com,3.0,720,"['Travel Agency', 'Vacation Rental']"
+Couchsurfing,www.couchsurfing.com,1.1,718,"['Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+Red Umbrella Holidays,redumbrellaholidays.com,4.8,717,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency', 'Travel Aggregator']"
+Thrive Travel,thrivetravel.com,4.7,716,"['Travel Agency', 'Flights Search Site']"
+SchengenFlightReservationVisa.com,schengenflightreservationvisa.com,4.1,710,['Travel Agency']
+GoLastMinute®,golastminute.com,3.5,705,['Travel Agency']
+Airtripmaker,airtripmaker.com,4.6,702,"['Travel Agency', 'Flights Search Site']"
+Travel Centre US,travelcentre.us,4.9,701,"['Airline Ticket Agency', 'Tour Operator', 'Travel Aggregator', 'Travel Agency']"
+Colonial Properties Cabin & Resort Rentals,smokymtndreams.com,1.0,699,"['Travel Agency', 'Vacation Rental']"
+FLIGHTS NEST,flightsnest.com,3.8,698,['Travel Agency']
+Linguatrip,linguatrip.com,4.4,697,['Travel Aggregator']
+Classic Journeys,classicjourneys.com,4.8,690,"['Tour Operator', 'Travel Agency']"
+Egyptair,egyptair.com,1.4,689,"['Travel Agency', 'Flights Search Site']"
+Skiplagged,www.skiplagged.com,3.4,687,['Travel & Vacation']
+Newton Group,newtongrouptransfers.com,3.8,683,['Travel Agency']
+Studentuniverse,studentuniverse.com,2.3,680,['Airline Ticket Agency']
+Stitch,www.stitch.net,4.7,679,"['Dating Service', 'Social Services Organization', 'Social Club', 'Wellness Program', 'Outdoor Activity Organiser', 'Travel Aggregator']"
+All Seasons Resort Lodging,allseasonsresortlodging.com,4.7,677,"['Vacation Rental', 'Travel Agency']"
+Bookvip,bookvip.com,1.7,674,['Travel Agency']
+Tours4Fun,tours4fun.com,4.3,668,['Tour Agency']
+KOALA,go-koala.com,4.7,667,"['Vacation Rental', 'Travel Agency', 'Timeshare Agency', 'Self-Catering Accommodation', 'Holiday Apartment Rental', 'Resort']"
+algotels.com,algotels.com,1.8,666,"['Hotel', 'Travel Agency']"
+BusBank,www.busbank.com,4.9,665,"['Bus Charter', 'Airport Shuttle Service', 'Bus Tour Agency', 'Travel Aggregator', 'Bus and Coach Company', 'Transportation Service']"
+Princess Cruises,www.princess.com,1.8,665,"['Tour Operator', 'Cruise Agency', 'Cruise Travel Agency', 'Travel Agency']"
+Flyluxury,flyluxury.com,4.9,664,['Travel Agency']
+InteleTravel.com,inteletravel.com,3.6,658,"['Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+Travelslake,www.travelslake.com,4.9,656,['Travel & Vacation']
+Southwest Airlines,www.southwest.com,1.9,655,"['Flights Search Site', 'Travel Aggregator', 'Travel Agency']"
+InsureandGo USA,www.insureandgousa.com,1.1,655,"['Financial Consultant', 'Travel Agency', 'Insurance Agency']"
+Travelouts,travelouts.com,4.0,654,['Travel Agency']
+flydubai,flydubai.com,1.4,649,"['Flights Search Site', 'Travel Agency', 'Airline']"
+Tom Barefoot,tombarefoot.com,4.7,642,['Travel Agency']
+Outrageouscabins.com,outrageouscabins.com,4.1,633,"['Travel Agency', 'Cottage', 'Cabin Rental Agency']"
+Travelodaddy,travelodaddy.com,3.7,626,['Travel Agency']
+MotoPress,motopress.com,4.6,619,"['Software Company', 'Software Vendor', 'Vacation Rental', 'Website Designer']"
+FlyWorldClass.com,flyworldclass.com,4.8,617,"['Travel Agency', 'Flights Search Site']"
+Travelpro,travelpro.com,3.4,617,['Travel & Vacation']
+LowCostAirlines,lowcostairlines.com,1.0,616,['Travel & Vacation']
+Remote Year,remoteyear.com,4.8,614,['Tour Agency']
+Thepassportoffice,thepassportoffice.com,4.9,612,['Travel & Vacation']
+Alexander + Roberts,www.alexanderroberts.com,4.9,610,"['Travel Agency', 'Tour Operator', 'Cruise Agency', 'Tour Agency', 'Cruise Travel Agency', 'Cultural Tours Provider']"
+America Israel Tours,www.americaisraeltours.com,4.9,608,['Tour Operator']
+HelloGov AI,hellogov.com,4.9,605,"['Visa and Passport Office', 'Passport Office', 'Passport Agent', 'Driver and Vehicle Licensing Agency', 'Visa Consultant']"
+Trawick International,www.trawickinternational.com,3.0,604,"['Travel Agency', 'Travel Insurance Company']"
+travorium.com,www.travorium.com,4.3,599,"['Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+bestof-hawaii,bestof-hawaii.com,3.8,599,['Travel Agency']
+Westgate Resorts,westgateresorts.com,1.7,597,['Travel & Vacation']
+flightsbird,flightsbird.com,4.7,594,['Travel Agency']
+FareBarber,farebarber.com,4.4,592,"['Airline Ticket Agency', 'Travel Agency', 'Cruise Travel Agency', 'Flights Search Site']"
+Tripmasters,tripmasters.com,4.8,589,"['Tour Operator', 'Travel Agency', 'Travel Aggregator', 'Tour Agency']"
+French bee,frenchbee.com,3.0,589,"['Flights Search Site', 'Travel Agency', 'Tour Operator']"
+Ratepunk,ratepunk.com,4.2,587,['Tourist Information Center']
+Flyer Club,flyer-club.com,4.8,583,['Travel Agency']
+British Passport Pro,britishpassportpro.com,5.0,581,['Travel Agency']
+TAP Portugal,www.tap.pt,1.4,581,"['Airline', 'Flights Search Site']"
+OYO UK,oyorooms.com/gb,1.2,581,['Hotel']
+Swissport,www.swissport.com,1.3,574,"['Flights Search Site', 'Airline', 'International Airport', 'Travel Agency']"
+Wizfair Travel,wizfairvacation.com,4.4,571,['Travel Agency']
+France Off the Beaten Path,traveloffthebeatenpath.com,5.0,568,"['Tour Agency', 'Event Planner', 'Travel Agency', 'Cultural Tours Provider', 'Tour Operator']"
+Fly With Class,flywithclass.com,2.5,567,['Travel Agency']
+Poseidon Expeditions,poseidonexpeditions.com,4.5,564,"['Travel Agency', 'Cruise Agency']"
+Optiontown,www.optiontown.com,3.0,563,['Travel Agency']
+Adventure Life,www.adventure-life.com,4.8,555,"['Travel Agency', 'Tour Operator']"
+Bus.com,bus.com,4.1,555,"['Bus Charter', 'Bus Tour Agency', 'Event Technology Service', 'Travel Aggregator', 'Bus and Coach Company', 'Transportation Service']"
+Bike Rent NYC,bikerent.nyc,2.0,555,['Tour Operator']
+Sonder,sonder.com,1.4,554,"['Self-Catering Accommodation', 'Holiday Apartment Rental', 'Hostel', 'Serviced Accommodation', 'Vacation Rental']"
+John Hall's Alaska,kissalaska.com,4.9,553,['Cultural Tours Provider']
+Météo-France,www.meteofrance.com,1.2,549,"['Tour Operator', 'Travel Agency']"
+Click2refund,click2refund.com,4.6,548,['Travel & Vacation']
+Holiday Inn Express,hiexpress.com,2.3,543,"['Travel Agency', 'Hotel']"
+VaccationTravel,vaccationtravel.com,4.4,537,"['Airline Ticket Agency', 'Travel Agency']"
+Experience It Tours,experienceittours.com,5.0,536,"['Travel Agency', 'Tour Operator']"
+Scoot,flyscoot.com,1.5,535,"['Travel Agency', 'Flights Search Site', 'Airline']"
+All-Paris-Apartments - English,all-paris-apartments.com/en,4.0,530,['Travel Agency']
+Celebrity Cruises,www.celebritycruises.com,1.9,529,"['Tour Operator', 'Cruise Agency', 'Cruise Travel Agency', 'Travel Agency']"
+Hotels By Day,hotelsbyday.com,4.3,527,"['Hotel', 'Airport Hotel', 'Budget Hotel', 'Travel Agency', 'Love Hotel', 'Boutique Hotel']"
+MyTicketDeal.com,myticketdeal.com,4.7,520,['Travel Agency']
+Wyndham Worldwide,wyndhamworldwide.com,1.1,519,['Travel Agency']
+Five Star Airways,fivestarairways.com,4.8,518,"['Airline Ticket Agency', 'Flights Search Site', 'Travel Agency']"
+DestinaHolidays,www.destinaholidays.com,4.4,518,"['Tour Operator', 'Travel Agency']"
+Hospitable,hospitable.com,4.1,511,"['Vacation Rental', 'Software Company']"
+Aeromexico,aeromexico.com,1.4,510,"['Flights Search Site', 'Travel Agency', 'Travel Aggregator']"
+Railbookers,www.railbookers.co.uk,4.7,508,['Tour Operator']
+Amigo U.S.,amigo-us.com,2.9,508,"['Electronics Store', 'Cell Phone Store', 'Travel Agency']"
+eSky Travel,www.esky.eu,3.5,507,['Travel & Vacation']
+One Dollar Fly,www.onedollarfly.com,3.4,507,"['Travel Agency', 'Airline Ticket Agency']"
+RCI,www.rci.com,1.2,506,['Timeshare Agency']
+Explorer Ventures Liveaboard Diving Fleet,explorerventures.com,4.7,501,"['SCUBA Tour Agency', 'Sightseeing Tour Agency', 'Tour Operator', 'Boat Tour Agency', 'Cruise Travel Agency']"
+cruises.com,cruises.com,4.2,500,['Cruise Agency']
+Tripadvisor,www.tripadvisor.in,3.2,500,"['Financial Consultant', 'Travel Agency', 'Price Comparison Site']"
+laxride.net,laxride.net,3.7,499,"['Taxi Service', 'Travel Agency']"
+Cathay Pacific Airways,www.cathaypacific.com,1.7,490,"['Travel Agency', 'Airline', 'Flights Search Site']"
+SkyGeek,www.skygeek.com,1.5,485,"['Airline', 'Car Accessories Store']"
+Adam Vacations,adamvacations.com,3.5,483,['Travel Agency']
+Laurel Mountain Retreat,laurelmtnrt.com,4.9,479,['Vacation Rental']
+Travodeals,travodeals.us,3.9,475,"['Airline Ticket Agency', 'Travel Agency']"
+Sky Express,skyexpress.gr,1.9,472,"['Airline', 'Flights Search Site', 'Travel Agency']"
+BLS International,blsspainvisa.com,1.9,470,"['Visa Consultant', 'Visa and Passport Office']"
+Rushmytravelvisa,rushmytravelvisa.com,4.6,469,"['Travel Agency', 'Visa Consultant', 'Visa and Passport Office', 'Passport Office']"
+Holidayinn,www.holidayinn.com,2.2,467,"['Hotel', 'Travel Agency', 'Travel Aggregator']"
+GetawayDealz.com,getawaydealz.com,4.1,462,['Travel Agency']
+Flynfare,flynfare.com,4.5,459,"['Travel Agency', 'Flights Search Site', 'Airline Ticket Agency', 'Travel Aggregator', 'Airline', 'Budget Hotel']"
+Centre International d'Antibes,cia-france.com,4.3,458,"['Travel Agency', 'Recreational and Vacation Camps']"
+Ya'lla Tours USA,yallatours.com,3.4,458,"['Tour Operator', 'Travel Agency']"
+Cheaptickets,www.cheaptickets.com,1.1,458,"['Travel Agency', 'Travel Aggregator']"
+Farecorner,farecorner.com,4.1,454,['Travel Agency']
+Timeshare Specialists,timesharespecialists.com,4.8,451,['Timeshare Agency']
+Keytours Vacations,www.keytours.com,5.0,447,"['Tour Operator', 'Travel Agency', 'Cultural Tours Provider', 'Travel Aggregator', 'Tour Agency']"
+Visa And More,www.thevisaandmore.com,4.9,447,"['Visa and Passport Office', 'Notary Public', 'Immigration and Naturalization Service', 'Paralegal Services Provider', 'Travel Agency', 'Foreign Consulate']"
+Patagonia,www.patagonia.com,2.5,447,"['Activewear Store', 'Baby Clothing Store', 'Clothing Store', 'Outdoor Clothing and Equipment Shop', ""Children's Clothing Store"", 'Travel Agency']"
+Visa Supply,www.visasupply.com,5.0,444,['Travel Agency']
+Superfares,superfares.com,4.2,444,"['Flights Search Site', 'Travel Agency']"
+Luxe Tribes,luxetribes.com,4.8,443,['Travel Agency']
+Claim Flights - Flight Compensation Service,claimflights.com,4.4,443,"['Flights Search Site', 'Legal Services', 'Travel Agency', 'Airline', 'Airport']"
+Timeshare Compliance,timesharecompliance.com,2.5,442,"['Credit Counseling Service', 'Real Estate Consultant', 'Timeshare Agency']"
+HotelReservations.com,hotelreservations.com,1.2,442,"['Travel Aggregator', 'Travel Agency', 'Hotel']"
+Natural Retreats,www.naturalretreats.com,4.5,439,"['Property Management Company', 'Vacation Rental']"
+Fantastic Fare,fantasticfare.com,4.8,437,"['Travel Agency', 'Airline Ticket Agency', 'Flights Search Site']"
+Booking Reservation For Visa,bookingreservationforvisa.com,4.1,436,['Travel Agency']
+Skytravelhub,skytravelhub.com,4.0,436,['Airline Ticket Agency']
+Island Vacations of Sanibel & Captiva,sanibelislandvacations.com,4.8,434,"['Vacation Rental', 'Vacation Home Rental Agency']"
+Reservation Centre LLC,reservationcentre.us,4.4,433,"['Travel Agency', 'Airline Ticket Agency', 'Travel Aggregator']"
+Discount Lift Rental,discountlift.rentals,4.7,430,['Travel & Vacation']
+The Points Trader,thepointstrader.com,4.9,429,"['Travel Agency', 'Flights Search Site']"
+Luggage Online,www.luggageonline.com,3.5,428,['Travel Agency']
+Triparies LLC,triparies.com,5.0,427,"['Flights Search Site', 'Travel Agency', 'Cruise Agency', 'Hotel', 'Holiday Accommodation Service']"
+Discover Airlines,www.discover-airlines.com,2.1,426,"['Flights Search Site', 'Airline']"
+Neattravels,neattravels.com,4.6,422,['Flights Search Site']
+Onward Ticket,onwardticket.com,4.8,421,['Travel Agency']
+ebooktrip,ebooktrip.com,3.9,421,['Airline Ticket Agency']
+TrovaTrip,trovatrip.com,4.7,418,['Travel Aggregator']
+Travel Compendium,travelcompendium.com,4.5,417,['Travel Agency']
+cheapvuelos.com,www.cheapvuelos.com,4.2,416,"['Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+FloridaRentals,floridarentals.com,4.9,414,['Vacation Rental']
+Qtrip.com,qtrip.com,4.5,413,['Airline Ticket Agency']
+Domum de Vencé,devencer.com,4.1,411,"['Bed & Breakfast', 'Boutique Hotel', 'Hotel', 'Self-Catering Accommodation', 'Travel Agency']"
+Go Real Travel,gorealtravel.com,4.9,410,['Travel Aggregator']
+Motel 6,www.motel6.com,2.2,407,"['Hotel', 'Travel Aggregator', 'Travel Agency']"
+lovevacations,lovevacations.com,1.7,405,['Travel Agency']
+Gulf Air,gulf-air.com,1.6,405,"['Travel Agency', 'Flights Search Site', 'Airline']"
+Campings Vert Bleu,campings-vert-bleu.com,4.1,404,['Travel & Vacation']
+TrustFares,www.trustfares.com,4.0,404,['Travel Agency']
+AirportParking.com,www.airportparking.com,1.3,403,"['Travel Agency', 'Parking Lot']"
+Dollar Flight Club,dollarflightclub.com,3.2,402,"['Travel Aggregator', 'Travel Agency', 'Flights Search Site', 'Airline', 'Airline Ticket Agency']"
+Flightsandpackages,flightsandpackages.com,4.7,399,['Travel & Vacation']
+BudgetAir.lv,budgetair.lv,2.4,399,['Travel & Vacation']
+FareCompare,farecompare.com,1.6,399,"['Travel Agency', 'Flights Search Site', 'Hotel', 'Travel Aggregator']"
+Despegar.com,us.despegar.com,1.3,396,['Travel Agency']
+DestinationWeddings,destinationweddings.com,4.3,394,['Travel Agency']
+Hotels.com,www.hotel.com,1.5,394,"['Travel Agency', 'Hotel']"
+Iqfares,iqfares.com,4.2,393,"['Travel Agency', 'Flights Search Site']"
+JetSMART,jetsmart.com,1.3,393,"['Airline', 'Travel Agency', 'Flights Search Site']"
+Rocketmiles,rocketmiles.com,1.4,391,['Travel Aggregator']
+jifu.com,jifu.com,3.9,389,"['Travel Agency', 'Travel Aggregator']"
+FareScan,farescan.com,1.3,388,['Airline Ticket Agency']
+Pack Up + Go,packupgo.com,4.8,387,['Travel Agency']
+Best Western Hotels & Resorts,www.bestwestern.com,2.1,387,"['Travel Agency', 'Hotel']"
+Yesfares.com,yesfares.com,4.9,384,"['Airline Ticket Agency', 'Travel Agency', 'Flights Search Site']"
+DragonPass,en.dragonpass.com.cn,1.6,384,['Travel & Vacation']
+Gate 1 Travel,gate1travel.com,3.0,383,['Tour Operator']
+Caradonna Adventures,www.caradonna.com,4.9,381,"['Adventure Sports', 'SCUBA Tour Agency', 'Travel Aggregator', 'Travel Agency']"
+Airtripmasters,airtripmasters.com,4.9,380,"['Travel Agency', 'Airline Ticket Agency']"
+momondo.se,momondo.se,2.4,378,['Flights Search Site']
+SmartLynx Airlines,www.smartlynx.aero,2.4,375,"['Flights Search Site', 'Airline']"
+Carnival Cruise Line,www.carnival.com,1.4,373,"['Cruise Agency', 'Cruise Travel Agency', 'Tour Operator', 'Travel Agency']"
+ChinaTour.com,chinatour.com,4.2,372,"['Tour Operator', 'Visa Consultant', 'Tour Agency', 'Group Accommodation', 'Travel Agency']"
+EazyFares,eazyfares.com,4.9,370,"['Airline Ticket Agency', 'Travel Aggregator', 'Travel Insurance Company', 'Travel Agency', 'Flights Search Site']"
+FlyFairTravels LLC,www.flyfairtravels.com,4.0,370,"['Travel Agency', 'Cruise Travel Agency', 'Flights Search Site', 'Airline Ticket Agency', 'Airline']"
+UME Travel,umetravel.com,4.9,369,"['Travel Agency', 'Tourist Information Center', 'Tour Operator', 'Cultural Tours Provider', 'Tourist Attraction']"
+Choice Hotels,www.choicehotels.com,1.5,369,"['Hotel', 'Travel Agency', 'Vacation Rental']"
+Cheapflights,cheapflights.com,1.1,369,['Travel & Vacation']
+Golf Zoo,golfzoo.com,4.9,366,['Travel Agency']
+FlightGuru,flightguru.com,2.9,366,['Travel & Vacation']
+Halo Travels & Tours US,haloflights.us,4.9,365,"['Tour Agency', 'Airline Ticket Agency', 'Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+Club Villamar,www.clubvillamar.com,3.6,364,['Travel Agency']
+checkfelix,checkfelix.at,1.7,363,['Travel & Vacation']
+Business-Tickets.com,business-tickets.com,4.9,362,['Airline Ticket Agency']
+momondo.pt,momondo.pt,4.1,361,['Travel Aggregator']
+Vacation Rental Pros,vacationrentalpros.com,1.5,361,"['Vacation Rental', 'Travel Agency']"
+FBC Travels,fbctravels.com,3.2,359,['Travel Agency']
+Kuoda Travel,kuodatravel.com,5.0,358,"['Cultural Tours Provider', 'Travel Agency', 'Tour Operator']"
+Baran Kul Clinic,barankulclinic.com,4.8,357,['Travel & Vacation']
+Worldpackers,worldpackers.com,4.6,357,['Travel Aggregator']
+Luggage Pros,www.luggagepros.com,4.1,357,['Travel Agency']
+FlyVagary,flyvagary.com,4.7,356,['Airline Ticket Agency']
+Fake Flight Tickets,fakeflighttickets.com,2.7,356,"['Travel Agency', 'Flights Search Site']"
+Vaya Adventures,www.vayaadventures.com,4.9,355,"['Tour Operator', 'Travel Agency']"
+Travel All Russia,travelallrussia.com,4.8,355,"['Travel Agency', 'Tour Operator']"
+Fareocity,www.fareocity.com,5.0,354,"['Airline Ticket Agency', 'Travel Agency']"
+Malaysiaairlines,malaysiaairlines.com,1.4,352,"['Flights Search Site', 'Travel Agency']"
+Houfy,www.houfy.com,4.8,350,"['Holiday Home', 'Cottage Rental', 'Holiday Apartment', 'Holiday Apartment Rental', 'Vacation Rental', 'Vacation Home Rental Agency']"
+AlaskaCruises.com,alaskacruises.com,2.4,350,"['Cruise Agency', 'Travel Agency']"
+Tradition Tours,traditiontours.com,4.4,349,"['Travel Agency', 'Tour Operator']"
+MT Sobek,mtsobek.com,4.9,348,"['Travel Agency', 'Tour Operator', 'Cultural Tours Provider', 'Tour Agency']"
+Your Travel Mates,www.yourtravelmates.com,1.4,348,['Travel Agency']
+Yampu Tours,yampu.com,5.0,346,"['Tour Operator', 'Travel Agency']"
+Gofastpass,gofastpass.com,4.7,345,"['Transportation Service', 'Airport Shuttle Service']"
+Lonestar Transfer,www.lonestartransfer.com,4.9,344,['Timeshare Agency']
+Padreescapes,padreescapes.com,2.0,343,['Travel & Vacation']
+Virgin Australia,www.virginaustralia.com,1.5,341,"['Flights Search Site', 'Airline', 'Travel Agency']"
+Bespoke India Travel,bespokeindiatravel.co.uk,4.9,339,"['Tour Operator', 'Tour Agency', 'Travel Agency']"
+Globus Faith,globusfaith.com,4.7,337,['Travel & Vacation']
+Farebubble,farebubble.com,3.8,336,['Travel Agency']
+Gohagan & Company,www.gohagantravel.com,4.5,335,['Tour Operator']
+Image Tours,imagetours.com,4.8,334,"['Tour Operator', 'Travel Agency']"
+Booking.com,booking.co.uk,1.2,333,"['Travel Aggregator', 'Hotel', 'Travel Agency']"
+Mapo Tapo,mapotapo.com,4.8,331,"['Sport Tour Agency', 'Adventure Sports', 'Travel Agency']"
+Lowfaretravel,lowfaretravel.com,3.8,331,['Travel Agency']
+Extended Stay America,www.extendedstayamerica.com,1.9,331,"['Hotel', 'Vacation Rental', 'Travel Agency']"
+"Club 1 Hotels, LLC.",club1hotels.com,3.9,328,['Travel Agency']
+Holiday Isle Properties,www.holidayisle.net,4.2,327,"['Vacation Rental', 'Travel Agency']"
+Icelandair,www.icelandair.com,1.5,327,"['Airline', 'Travel Agency', 'Flights Search Site']"
+Roamingmood,www.roamingmood.com,4.5,325,['Travel Agency']
+momondo,momondo.nl,1.4,324,['Flights Search Site']
+Holland America Line,hollandamerica.com,2.0,323,"['Travel Agency', 'Cruise Travel Agency', 'Cruise Agency', 'Tour Operator', 'Cruise Line Company']"
+The Fare Masters,thefaremasters.com,4.8,322,"['Flights Search Site', 'Airline Ticket Agency', 'Tour Operator', 'Travel Agency']"
+Whimstay,whimstay.com,4.3,321,"['Vacation Rental', 'Pet-Friendly Accommodation', 'Mountain Cabin', 'Beach Resort', 'Cottage', 'Vacation Home Rental Agency']"
+Budgetelitetravel,budgetelitetravel.com,4.8,320,['Travel Agency']
+Skyhikes,skyhikes.com,4.6,319,['Travel Agency']
+StrollerCare,www.strollercare.com,4.9,318,['Vacation Rental']
+Visa2egypt,www.visa2egypt.gov.eg,2.1,318,"['Visa Consultant', 'Travel Agency', 'Visa and Passport Office']"
+WorldVentures,worldventures.com,3.4,317,"['Travel Agency', 'Tour Operator']"
+momondo.it,momondo.it,3.1,315,['Travel & Vacation']
+Australia Visa Services,australiavisaservices.com,1.3,315,['Travel Agency']
+Discovery Voyages,discoveryvoyages.com,4.9,314,['Tour Operator']
+Fly Business For Less,flybusinessforless.com,4.8,314,"['Flights Search Site', 'Travel Agency']"
+FriendzTravel,friendztravel.com,4.3,314,"['Travel Aggregator', 'Airline Ticket Agency']"
+Hurtigruten,hurtigruten.com,2.9,314,['Cruise Line Company']
+VeloGuide,www.veloguide.com,4.9,313,"['Tour Operator', 'Road Cycling', 'Travel Aggregator']"
+FLY8MA.com,fly8ma.com,4.8,312,"['Aviation Training Institute', 'Aviation Consultant', 'Lodging', 'Training School', 'Flight School']"
+TripHobo,triphobo.com,3.7,307,"['Travel Aggregator', 'Travel Agency']"
+American Passport & Visa International,apvi.com,5.0,305,['Visa Consultant']
+easyJet,cars.easyjet.com,1.1,305,"['Car Rental Agency', 'Airline', 'Travel Agency', 'Flights Search Site']"
+Paddle Marco,paddlemarco.com,4.9,304,"['Canoe & Kayak Tour Agency', 'Canoe and Kayak Rental Service']"
+Fly2globe,fly2globe.com,4.9,304,['Travel Agency']
+Mystery Vacations,mysteryvacations.com,4.7,304,"['Travel Aggregator', 'Travel Agency', 'Tour Operator', 'Tour Agency', 'Cultural Tours Provider']"
+Paramount Business Jets,paramountbusinessjets.com,4.9,303,"['Travel Agency', 'Flights Search Site']"
+Unsold.com,unsold.com,2.1,302,"['Holiday Apartment Rental', 'Budget Hotel', 'Beach Resort', 'Holiday Accommodation Service', 'Hotel', 'Luxury Hotel']"
+TAP Air Portugal,flights.flytap.com,1.5,302,"['Flights Search Site', 'Airline', 'Travel Agency']"
+Dummyticket,dummyticket.com,4.3,301,['Travel Agency']
+VisaHero,visahero.com,4.9,300,['Visa and Passport Office']
+Pacific For Less,pacific-for-less.com,5.0,299,['Travel Agency']
+World Path Travel,worldpathtravel.com,4.8,299,"['Flights Search Site', 'Travel Agency']"
+Bestfaredeal,bestfaredeal.com,3.8,299,['Flights Search Site']
+Ciao Italy Tours,ciaoitalytours.com,4.9,298,"['Tour Operator', 'Travel Agency']"
+Fareodaddy,fareodaddy.com,3.3,298,['Travel Agency']
+Passports Travel,passports.com,4.9,297,"['Travel Agency', 'Tour Agency', 'Tour Operator', 'Travel Aggregator', 'Cultural Tours Provider']"
+Osiris Tours,osiristours.com,4.9,297,['Travel Agency']
+Booking.com,villas.com,1.2,297,"['Travel Aggregator', 'Hotel', 'Travel Agency']"
+RateHawk,ratehawk.com,4.1,296,['Travel Aggregator']
+Cruise.com,cruise.com,1.7,296,"['Cruise Agency', 'Travel Agency']"
+Omaha Fares,omahafares.com,4.9,294,['Travel Agency']
+CruiseHub,cruisehub.com,4.9,293,"['Cruise Travel Agency', 'Travel Agency', 'Cruise Agency']"
+Art In Voyage,artinvoyage.com,4.9,293,"['Travel Agency', 'Tour Operator']"
+Nexion Travel Group,www.nexion.com,3.0,293,['Travel Agency']
+Charleston Coast Vacations by dunes properties,charlestoncoastvacations.com,2.1,292,"['Travel Agency', 'Vacation Rental']"
+Easymytrip,easymytrip.com,2.5,291,"['Travel Agency', 'Flights Search Site']"
+HOLT,helloholt.com,4.5,290,"['Vacation Rental', 'Real Estate Developer', 'Property Investment', 'Vacation Home Rental Agency', 'Holiday Apartment Rental', 'Holiday Accommodation Service']"
+TakeTours,taketours.com,2.6,290,['Travel Agency']
+Flyone,flyone.eu,1.3,290,"['Flights Search Site', 'Travel Agency']"
+TREASURE REALTY,treasurerealty.com,3.2,289,"['Vacation Rental', 'Travel Agency']"
+DerbyBox.com,www.derbybox.com,4.9,288,['Travel Agency']
+Kenya Visa Online,kenyavisaonline.com,1.3,288,"['Travel Agency', 'Travel Aggregator']"
+Vistara,airvistara.com,1.7,283,"['Travel Aggregator', 'Travel Agency', 'Tour Operator', 'Flights Search Site']"
+Ibishotels,ibishotels.com,2.0,282,"['Hotel', 'Travel Agency']"
+valalto.com,valalto.com,4.8,281,['Flights Search Site']
+"Bókun, a Tripadvisor company",bokun.io,4.5,281,"['Software Company', 'Tour Operator', 'Travel Agency']"
+Iberostar Hotels & Resorts,www.iberostar.com,3.4,281,"['Tour Operator', 'Travel Agency', 'Hotel']"
+TravelMerry,www.travelmerry.com,4.7,280,['Travel & Vacation']
+Loftium,www.loftium.com,4.2,280,"['Association or Organization', 'Vacation Rental', 'Lodging', 'Travel Agency', 'Real Estate Agency']"
+Ritz Tours,ritztours.com,4.6,279,"['Tour Operator', 'Travel Agency']"
+Flightsfairy,flightsfairy.com,4.5,279,"['Flights Search Site', 'Airline Ticket Agency', 'Travel Agency']"
+ThirdHome,www.thirdhome.com,4.5,277,['Vacation Rental']
+Documitra,documitra.com,4.9,276,"['Passport Agent', 'Visa Consultant', 'Visa and Passport Office', 'Passport Photo Processor']"
+Travelomile,travelomile.com,4.0,276,"['Airline Ticket Agency', 'Travel Agency', 'Airport Hotel', 'Business Hotel']"
+English Ctrip,english.ctrip.com,1.9,276,"['Travel Agency', 'Hotel', 'Train Ticket Agency', 'Flights Search Site']"
+Cheapflights,cheapflights.ca,1.1,275,['Travel & Vacation']
+Sandals Resorts,www.sandals.com,2.1,274,"['Travel Agency', 'Vacation Rental', 'Tour Operator']"
+laytrip.com,laytrip.com,4.2,273,['Travel Agency']
+Red Roof Inn,www.redroof.com,1.9,269,"['Travel Agency', 'Hotel']"
+Vacatia,www.vacatia.com,4.1,268,"['Vacation Rental', 'Travel Agency']"
+WorldMark by Wyndham,www.worldmarktheclub.com,1.2,268,"['Vacation Rental', 'Travel Agency']"
+1800FlyEurope,1800flyeurope.com,2.5,266,"['Flights Search Site', 'Travel Agency']"
+Hotel Hilton,hiltonhotels.com,1.7,265,"['Hotel', 'Travel Agency', 'Boutique Hotel']"
+RentVillas.com,www.rentvillas.com,1.3,265,"['Vacation Rental', 'Travel Agency']"
+Opinioes de valor,www.opinioesdevalor.com,4.2,264,['Travel & Vacation']
+ALI BABA CABS Taxi,www.alibabacabs.co.uk,5.0,263,"['Minibus Taxi Service', 'Airport Shuttle Service', 'Transportation Service', 'Taxi Service']"
+VIP TRAVELER (viptraveler.com),viptraveler.com,4.9,263,['Travel Agency']
+Shiva Travel,shivatravel.com,3.7,263,"['Flights Search Site', 'Travel Agency']"
+Fly Business,fly.business,4.8,259,['Travel Agency']
+Top-Cruise-Deals,top-cruise-deals.com,1.5,259,"['Travel Agency', 'Cruise Agency']"
+SmartCruiser.com,smartcruiser.com,3.3,258,['Cruise Agency']
+Magnetic North Travel,magneticnorthtravel.com,4.9,257,"['Travel Agency', 'Tour Operator']"
+Tablet Hotels,tablethotels.com,4.6,257,"['Travel Agency', 'Hotel']"
+CEOFLIGHTS – Cheap Business Class Flights,ceoflights.com,4.8,256,"['Airline Ticket Agency', 'Travel Agency', 'Flights Search Site']"
+Aer Lingus Vacation Store,aerlingusvacationstore.com,3.5,256,['Tour Operator']
+marriottbonvoy.com,marriottbonvoy.com,1.3,256,"['Travel Agency', 'Hotel', 'Travel Aggregator']"
+Happy Adventurers Travel Agency,happyadventurers.com,4.7,255,['Travel Agency']
+Tokeet,tokeet.com,4.5,252,"['Vacation Rental', 'Software Company']"
+African Safari Consultants LLC,africansafaris.com,5.0,251,"['Travel Agency', 'Tour Operator', 'Boutique Hotel', 'Lodge', 'Luxury Hotel']"
+Navan,navan.com,3.8,251,['Travel Agency']
+Holiday Inn Club Vacations,holidayinnclub.com,1.1,249,"['Travel Agency', 'Hotel', 'Vacation Rental']"
+Reservationscenter,reservationscenter.com,1.1,249,"['Hotel', 'Travel Aggregator', 'Travel Agency']"
+Theflightsboss,theflightsboss.com,4.9,246,['Airline Ticket Agency']
+Trippact.com,trippact.com,4.6,246,"['Travel Agency', 'Flights Search Site']"
+Air Mauritius,www.airmauritius.com,1.6,246,"['Travel Agency', 'Flights Search Site', 'Tour Operator']"
+Galaxyescapes,galaxyescapes.com,4.1,245,['Travel & Vacation']
+Tom Tours Services,tomtours.com,5.0,244,"['Hotel', 'Travel Agency', 'Flights Search Site']"
+Radisson Blu,www.radissonblu.com,2.0,244,['Hotel']
+The Walt Disney Company,disneyworld.disney.go.com,1.3,244,"['Travel Agency', 'Travel Aggregator']"
+Vayubooking,vayubooking.com,4.9,243,"['Travel Agency', 'Tour Operator', 'Airline Ticket Agency']"
+Travelous,www.travelous.com,4.9,243,"['Tour Operator', 'Travel Agency']"
+Down Under Endeavours,www.downunderendeavours.com,4.9,242,['Travel Agency']
+Travelogate,travelogate.com,4.8,242,"['Travel Agency', 'Airline Ticket Agency']"
+Reservationclubs,reservationclubs.com,3.8,241,"['Flights Search Site', 'Travel Agency', 'Travel Aggregator']"
+TripToGo,triptogo.com,4.8,240,"['Travel Aggregator', 'Flights Search Site', 'Hotel']"
+Billabook,billabook.com,3.3,240,['Travel Agency']
+Arrowhead Retreats,arrowheadretreats.com,3.6,239,['Travel & Vacation']
+Booking.com,flights.booking.com,1.2,239,"['Travel Agency', 'Flights Search Site', 'Travel Aggregator']"
+Discovering Ireland Vacations,discoveringireland.com,4.9,238,['Tour Operator']
+AirfareExperts,airfareexperts.com,2.3,238,['Travel & Vacation']
+Deeper Africa,deeperafrica.com,4.9,237,"['Tour Operator', 'Travel Agency']"
+Roomer,roomertravel.com,3.4,237,['Travel & Vacation']
+Sundance Vacations,sundancevacations.com,4.7,236,['Travel Agency']
+Farebuddies,farebuddies.com,2.8,233,['Travel Agency']
+Hawaii Activities - VELTRA,hawaiiactivities.com,2.6,233,['Travel Agency']
+10XBNB,10xbnb.com,4.8,231,"['Training Centre', 'Learning Center', 'Online Marketplace', 'Vacation Home Rental Agency']"
+Hilton Hotels & Resorts,doubletree.com,2.4,230,"['Hotel', 'Boutique Hotel', 'Travel Agency']"
+hutchgo Hong Kong,hutchgo.com,2.7,229,['Travel & Vacation']
+Hyatt Hotels,www.hyatt.com,2.1,228,"['Budget Hotel', 'Hotel']"
+Stansted Airport-parking,app.stansted-airport-parking.com,1.4,228,"['Travel Aggregator', 'Travel Agency', 'Valet Parking Service', 'Parking Lot']"
+reservationstays.com,reservationstays.com,1.3,227,"['Hotel', 'Travel Aggregator', 'Travel Agency', 'Tour Operator']"
+Dreamlines,www.dreamlines.com,2.0,224,"['Travel Agency', 'Cruise Agency']"
+Redwood Coast Vacation Rentals,redwoodcoastvacationrentals.com,4.8,223,"['Vacation Home Rental Agency', 'Holiday Apartment Rental']"
+"Take A Break Travel, LLC.",takeabreaktravel.com,4.6,223,['Travel Agency']
+Morocco Tours,moroccotours.org,4.9,222,"['Travel Agency', 'Cultural Tours Provider']"
+JetNsave,jetnsave.com,4.7,222,"['Travel Agency', 'Flights Search Site', 'Hotel', 'Travel Aggregator']"
+Gotoflyer,gotoflyer.com,3.3,221,['Airline Ticket Agency']
+FIJI VACATIONS/ FIJI TRAVEL,fijivacations.com,4.7,220,['Travel Agency']
+SKYDAY TRAVEL,skydaytravel.com,4.6,220,"['Travel Agency', 'Cruise Travel Agency', 'Airline Ticket Agency', 'Hotel', 'Car Rental Agency', 'Tour Agency']"
+Dummyticket247,dummyticket247.com,4.6,220,['Flights Search Site']
+CitySights NY,www.citysightsny.com,1.6,220,['Travel & Vacation']
+Hajar Travels,hajartravels.com,4.4,219,['Travel Agency']
+The Gorilla Safari Company,gorillasafaricompany.com,4.9,218,['Tour Operator']
+Kidmoto Technologies,www.kidmoto.taxi,4.9,218,"['Taxi Service', 'Travel Agency']"
+Sell My Miles,sellmymiles.com,4.5,218,['Travel Agency']
+Mayfairhotelsupply,mayfairhotelsupply.com,3.7,218,['Hotel Supply Store']
+Thousand Hills Golf Resort,www.thousandhills.com,3.3,218,"['Travel Agency', 'Furniture Store', 'Vacation Rental', 'Hotel', 'Real Estate Agency']"
+Sweet Home Vacation,disney.sweethomevacation.com,2.0,218,"['Travel Agency', 'Vacation Rental']"
+Flightfare Hub,flightfarehub.com,3.0,217,['Travel Agency']
+CIBT,cibt.com,3.3,216,"['Visa and Passport Office', 'Visa Consultant']"
+Lola.com,lola.com,2.5,216,['Travel Agency']
+beneplace.com,beneplace.com,3.0,215,"['Amusement Center', 'Baseball', 'Holiday Park', 'Travel Agency', 'Hotel']"
+Cuballama,www.cuballama.com,2.9,215,"['Travel Agency', 'Telecommunications Service Provider']"
+Vrbo,vbro.com,1.2,215,"['Holiday Apartment Rental', 'Vacation Rental', 'Vacation Home Rental Agency', 'Holiday Accommodation Service', 'Cottage']"
+AccessFares,accessfares.com,4.9,214,['Travel Agency']
+Transporthubuk,www.transporthubuk.co.uk,4.4,214,"['Transportation Service', 'Travel Agency', 'Minibus Taxi Service', 'Bus Company', 'Bus and Coach Company', 'Taxi Service']"
+AIYRE Pacific Camper Vans,aiyrepacific.com,4.9,213,['Travel Agency']
+Alaska Airlines,alaskaair.com,1.5,213,"['Flights Search Site', 'Travel Agency']"
+bookingcar-usa.com,www.bookingcar-usa.com,4.0,212,['Travel Aggregator']
+CheapCaribbean,www.cheapcaribbean.com,2.0,209,['Travel & Vacation']
+Business First International Inc.,businessfirstinternational.com,4.8,208,"['Business to Business Service', 'Travel Agency']"
+Stay Sojo,staysojo.com,4.8,208,['Lodging']
+Language International,languageinternational.com,4.7,207,['Travel Agency']
+Meredith Lodging,www.meredithlodging.com,2.5,206,"['Travel Agency', 'Vacation Home Rental Agency', 'Vacation Rental']"
+Bookety,bookety.com,1.1,206,['Travel & Vacation']
+GoCamp,gocamp.com,4.6,205,"['Vacation Rental', 'Recreational Vehicle Rental Agency', 'Camp', 'Pet-Friendly Accommodation', 'Lodging', 'Travel Agency']"
+Scandic Hotels,www.scandichotels.com,2.3,204,"['Hotel', 'Travel Agency']"
+Jamaican Treasures Villas,www.jamaicantreasures.com,4.9,202,"['Travel Agency', 'Vacation Rental']"
+Cheapflightsfreak,www.cheapflightsfreak.com,4.6,202,['Travel & Vacation']
+City Discovery,www.city-discovery.com,3.9,202,['Travel Agency']
+Picture the Magic,picturethemagic.com,4.9,201,['Travel Agency']
+Vacation Wiser,vacationwiser.com,4.0,200,['Travel Agency']
+Oasis China Visa Services,oasischinavisa.com,4.9,199,['Travel Agency']
+Expedited Passports & Visas,expeditedpassportsandvisas.com,4.3,198,['Travel Agency']
+Wotif.com,www.wotif.com,1.1,198,"['Travel Aggregator', 'Hotel', 'Travel Agency']"
+Colonial Ghosts,colonialghosts.com,4.9,197,['Tour Operator']
+parkdean-resorts.com,parkdean-resorts.com,2.1,196,['Travel & Vacation']
+Big Sky Vacation Rentals,bookbigsky.com,4.9,195,['Vacation Home Rental Agency']
+tourcruiser.com,tourcruiser.com,4.6,195,['Travel Agency']
+Riyatravels.com,riyatravels.com,3.5,195,['Travel & Vacation']
+Daceys Cornish Tours,www.daceyscornishtours.com,4.9,193,"['Cultural Tours Provider', 'Travel Agency']"
+tcsworldtravel.com,tcsworldtravel.com,4.8,193,"['Travel Agency', 'Tour Operator']"
+Bluegreen Vacations,bluegreenvacations.com,1.2,193,"['Vacation Rental', 'Travel Agency', 'Tour Operator']"
+Blackride.com,blackride.com,4.9,192,"['Limousine Service', 'Airport Shuttle Service', 'Transportation Service']"
+A Day in LA Tours,adayinlatours.com,4.9,191,"['Travel Agency', 'Tour Operator']"
+Myst Yacht Charters,mystyachtcharters.com,4.9,191,"['Travel Agency', 'Yacht Broker']"
+Rustic Pathways,rusticpathways.com,4.7,190,"['Tour Operator', 'Travel Agency']"
+Wilderness Travel,wildernesstravel.com,4.7,189,"['Cultural Tours Provider', 'Tour Operator', 'Travel Agency']"
+Crowne Travels LLC,crownetravels.com,4.5,189,['Travel Agency']
+LY.com,ly.com,2.1,189,"['Travel Agency', 'Travel Aggregator']"
+Andean Discovery,andeandiscovery.com,4.9,187,"['Travel Agency', 'Tour Operator']"
+Cool Destinations®,cooldestinations.com,4.8,186,"['Sightseeing Tour Agency', 'Tour Agency', 'Bus Tour Agency', 'Boat Tour Agency', 'Travel Aggregator', 'Travel Agency']"
+Thefxcompany,www.thefxcompany.co.uk,4.8,186,['Travel Aggregator']
+Camping Les Prairies de la Mer  - Ouistreham,domaine-prairiesdelamer.com,4.3,186,"['Travel Agency', 'Vacation Rental']"
+Emirates Vacations,emiratesvacations.com/us_en,4.7,185,['Travel & Vacation']
+Santana Adventures,santanaadventures.com,4.6,185,['Tour Operator']
+Private Jet Card Comparisons,privatejetcardcomparisons.com,4.9,184,"['Travel Aggregator', 'Aviation Consultant', 'Flights Search Site', 'Airline']"
+Sea the City Jet Ski,www.seathecity.com,4.8,184,"['Travel Agency', 'Tour Operator']"
+"Parking Access, LLC",parkingaccess.com,3.2,184,['Travel Aggregator']
+Timestravel,timestravel.com,4.4,183,['Airline Ticket Agency']
+momondo.fi,momondo.fi,1.7,183,['Flights Search Site']
+Parkdeanholidays,www.parkdeanholidays.co.uk,1.6,182,['Travel & Vacation']
+Last Minute Travel,www.lastminutetravel.com,1.6,182,['Travel Agency']
+Superior Cruise & Travel,www.superiorcruiseandtravel.com,1.4,182,"['Travel Agency', 'Cruise Agency']"
+GIVE Volunteers,givevolunteers.org,4.9,181,"['Tour Operator', 'Cultural Tours Provider', 'Travel Agency']"
+MCC USA Global Workforce Solutions,migrationusa.co,4.5,181,"['Recruitment Service', 'Visa Consultant']"
+almundo.com,almundo.com,1.8,181,"['Travel Agency', 'Tour Operator', 'Travel Aggregator']"
+FlyCFG,charterflightgroup.com,4.6,180,"['Travel lounge', 'Travel Aggregator', 'Flights Search Site', 'Aviation Consultant']"
+www.Faresfeed.com,faresfeed.com,2.3,180,['Airline']
+SeaWorld,seaworld.com,1.7,180,"['Travel Agency', 'Tour Operator']"
+Isagenix,monaview.isagenix.com,4.3,179,"['Travel Agency', 'Travel Aggregator', 'Fitness and Nutrition Service']"
+Viaresorts,visit.viaresorts.com,4.1,177,['Holiday Accommodation Service']
+Ambassador Passport and Visa Services,ambassadorpassportandvisa.com,1.4,177,['Travel Agency']
+EF Ultimate Break,efultimatebreak.com,4.7,176,['Tour Operator']
+beyondfares.com,beyondfares.com,3.7,176,"['Travel Agency', 'Flights Search Site']"
+PassportRenewal.com,passportrenewal.com,1.9,175,"['Passport Office', 'Travel Agency']"
+EagleRider,eaglerider.com,2.9,174,['Travel Agency']
+Flyhacks,flyhacks.com,2.9,174,"['Travel Agency', 'Airline Ticket Agency', 'Flights Search Site']"
+SkyUp Airlines,skyup.aero,1.9,174,"['Airline', 'Flights Search Site', 'Travel Agency']"
+Hotelsinamerica,hotelsinamerica.com,1.3,174,"['Travel Aggregator', 'Travel Agency', 'Hotel']"
+Wilderness Aware Rafting,inaraft.com,4.9,173,"['Tour Operator', 'Travel Agency']"
+JayWay Travel,jaywaytravel.com,4.9,173,['Travel Agency']
+BookOtrip,bookotrip.com,4.9,173,"['Travel Agency', 'Flights Search Site']"
+Prestige Ride,prestigeride.com,4.8,173,"['Limousine Service', 'Car Service', 'Taxi Service', 'Transportation Service', 'Airport Shuttle Service', 'Minibus Taxi Service']"
+Coliving.com,coliving.com,4.2,173,"['Online Marketplace', 'Serviced Accommodation', 'Roommate Referral Service', 'Group Accommodation', 'Hostel']"
+Jack's Flight Club,jacksflightclub.com,3.4,173,"['Flights Search Site', 'Travel Aggregator']"
+PORTMANTOS,portmantos.com,2.4,173,['Travel Agency']
+Business Travel 365,www.businesstravel365.com,4.8,172,"['Flights Search Site', 'Travel Agency', 'Airline Ticket Agency']"
+ScholarTrip,scholartrip.com,4.3,171,['Travel Agency']
+Rayanair,rayanair.com,1.3,171,"['Travel Agency', 'Flights Search Site']"
+www.journeycook.com,www.journeycook.com,4.3,170,"['Travel Agency', 'Flights Search Site']"
+Cruisebound,cruisebound.com,4.8,169,"['Travel Agency', 'Cruise Travel Agency', 'Travel Aggregator']"
+Flyoseas,www.flyoseas.com,4.8,169,['Flights Search Site']
+Starmark Vacation Homes,www.starmarkvacationhomes.com,3.9,169,"['Travel Agency', 'Vacation Rental']"
+LuxFlight,luxflight.com,4.9,166,"['Flights Search Site', 'Travel Agency']"
+FindBusinessClass,findbusinessclass.com,4.9,166,"['Airline Ticket Agency', 'Flights Search Site', 'Travel Agency']"
+Goflyfirst,goflyfirst.com,4.6,166,['Travel Agency']
+Unlimited Vacation Club,unlimitedvacationclub.com,1.7,166,"['Vacation Rental', 'Travel Agency', 'Tour Operator']"
+Swain Destinations,swaindestinations.com,4.9,165,"['Tour Operator', 'Travel Agency']"
+Authentic Ireland,www.authenticireland.com,4.9,165,['Travel Agency']
+Good Life Expeditions,goodlifeexpeditions.com,4.8,165,"['Cultural Tours Provider', 'Travel Agency', 'Tour Operator', 'Tour Agency']"
+"BWJ Travel, LLC",www.bwjagents.com,3.5,165,['Travel Agency']
+11th Street Travel U.S,eleventhstreettravel.com,4.9,164,['Travel Agency']
+Czech Airlines,www.czechairlines.com,1.8,164,"['Travel Agency', 'Travel Aggregator', 'Flights Search Site']"
+Kmmaltairlines,www.kmmaltairlines.com,1.7,164,"['Flights Search Site', 'Travel Agency', 'Tour Operator']"
+Tropical Birding Tours,www.tropicalbirding.com,4.9,163,['Tour Operator']
+Johnnie Walker RV,jwrv.com,4.7,163,['Travel Agency']
+Lettingsaway,lettingsaway.com,4.0,163,"['Vacation Rental', 'Vacation Home Rental Agency', 'Holiday Apartment Rental']"
+Four Season Guides,fsguides.com,4.9,162,['Tour Operator']
+Hostfully,hostfully.com,4.6,162,"['Vacation Rental', 'Software Company', 'Business to Business Service', 'Holiday Accommodation Service']"
+VacationRentals,www.vacationrentals.com,1.7,162,['Travel & Vacation']
+InsureMyTrip,insuremytrip.com,4.8,161,"['Insurance Agency', 'Travel Insurance Company', 'Travel Aggregator']"
+KnittingTours.com,knittingtours.com,4.8,161,['Tour Operator']
+bookingace.com,bookingace.com,3.8,161,['Travel Agency']
+awaze.co.uk,awaze.co.uk,1.5,161,"['Tour Operator', 'Vacation Rental', 'Travel Agency']"
+momondo.no,momondo.no,1.3,160,['Flights Search Site']
+Allegiant,www.allegiantair.com,1.3,160,"['Flights Search Site', 'Airline', 'Travel Agency']"
+SimilarWorlds,similarworlds.com,3.1,159,['Travel & Vacation']
+Seatnet,seatnet.com,1.2,159,"['Travel Agency', 'Event Ticket Seller']"
+Flysky9,flysky9.com,4.6,158,['Travel Agency']
+Lookupvacations,lookupvacations.com,4.2,158,"['Travel Agency', 'Cruise Agency']"
+City Wonders,www.citywonders.com,2.5,158,"['Tour Agency', 'Tour Operator', 'Sightseeing Tour Agency', 'Tourist Attraction', 'Tourist Information Center', 'Cultural Tours Provider']"
+Goose Creek RV Park & Campground,goosecreekrvpark.com,4.7,157,"['Lodging', 'RV Park', 'Campground', 'Camping cabin']"
+Elan Vacations,www.elanvacations.com,4.4,157,['Travel & Vacation']
+Clayton Hotels,www.claytonhotels.com,3.1,157,"['Holiday Accommodation Service', 'Hotel']"
+Prima Drive,primadrive.com,2.4,157,"['Travel Agency', 'Taxi Service']"
+Radisson,www.radisson.com,1.7,156,"['Hotel', 'Travel Agency']"
+Duinrell,www.duinrell.com,1.6,156,"['Travel Agency', 'Holiday Park']"
+Lowfarebuddy,lowfarebuddy.com,3.9,155,"['Flights Search Site', 'Travel Agency']"
+blueribbonbags.com,www.blueribbonbags.com,2.5,155,['Travel Agency']
+Wamos Air,wamosair.com,1.9,155,"['Flights Search Site', 'Airline']"
+voetbaltrips.com,voetbaltrips.com,4.7,154,"['Sport Tour Agency', 'Travel Agency', 'Tour Operator', 'Soccer Store']"
+paylatertickets,paylatertickets.com,4.6,154,"['Travel Agency', 'Airline Ticket Agency', 'Flights Search Site', 'Airline']"
+Matt's Flights,mattsflights.com,4.1,154,['Travel Agency']
+Bookflyus,bookflyus.com,4.9,153,"['Flights Search Site', 'Travel Agency', 'Airline Ticket Agency']"
+Fond Travels,fondtravels.com,4.3,153,['Airline Ticket Agency']
+Airfrance,www.airfrance.us,2.9,153,"['Travel Agency', 'Flights Search Site', 'Airline']"
+SnowVentures Ski and Snowboard Vacations,snowventures.com,4.8,151,"['Travel Agency', 'Ski Holidays', 'Tour Operator']"
+FlyVagaryBusiness,flyvagarybusiness.com,4.8,151,"['Travel Aggregator', 'Travel Agency']"
+BB,bikesbooking.com,2.2,151,"['Motor Scooter Dealer', 'Scooter Rental Service', 'Travel Aggregator', 'Motorcycle Rental Agency', 'ATV Rental Service', 'Bicycle Rental Service']"
+Newtraveltrip,newtraveltrip.com,1.2,151,['Travel Agency']
+Stonehill Cottages,stonehillcottages.com,4.9,150,"['Cabin Rental Agency', 'Vacation Rental']"
+cheapparkfly.com,cheapparkfly.com,4.7,150,"['Parking Lot', 'Travel Agency']"
+Friendship Tours,friendshiptours.com,4.0,150,"['Travel Agency', 'Tour Operator']"
+UnderPricer,underpricer.com,3.7,149,"['Travel Agency', 'Airline', 'Airline Ticket Agency']"
+Hilton Grand Vacations,hgv.com,1.3,149,['Travel & Vacation']
+EKYTESTRAVEL,ekytestravel.com,4.7,148,"['Travel Agency', 'Flights Search Site']"
+Etihad Airways,dxbooking.etihad.com,1.5,148,"['Airline', 'Travel Agency', 'Flights Search Site']"
+AirfareNetwork.com,airfarenetwork.com,2.7,147,['Travel & Vacation']
+Cultural Island Travel - Travel To Cuba Legally,culturalislandtravel.com,4.9,146,"['Travel Agency', 'Cultural Tours Provider']"
+eightydays.me,eightydays.me,4.2,146,"['Flights Search Site', 'Travel Agency', 'Train Ticket Agency', 'Airline Ticket Agency']"
+Ykmx Cheapfaresnow,ykmx.cheapfaresnow.com,1.2,146,"['Flights Search Site', 'Travel Agency']"
+HotelStorm,www.hotelstorm.com,1.2,145,['Travel & Vacation']
+Bookingbuddy,www.bookingbuddy.com,1.1,145,['Travel Agency']
+Travelopedia,travelopedia.co.uk,3.6,144,"['Travel Agency', 'Software Company']"
+Wyndham Hotels & Resorts,wyndham.com,1.5,144,"['Travel Agency', 'Hotel', 'Family Hotel', 'Boutique Hotel']"
+Tripping,tripping.com,1.1,144,"['Travel Agency', 'Vacation Rental']"
+MAK Vacations,makrealty.com,4.8,143,['Vacation Rental']
+CruiseCheap.com,cruisecheap.com,1.6,142,"['Cruise Agency', 'Travel Agency']"
+CheapFaresNow,cheapfaresnow.com,1.3,142,['Travel & Vacation']
+Skyline Travel Express,skylinetravelexpress.com,2.9,140,['Visa Consultant']
+lumiwings.com,www.lumiwings.com,3.2,139,"['Flights Search Site', 'Travel Agency', 'Airline']"
+Pteet.com,pteet.com,4.8,138,"['Travel Agency', 'Car Accessories Store', 'Car Rental Agency', 'Travel Insurance Company']"
+Suite Home,suitehomechicago.com,4.7,138,"['Vacation Rental', 'Travel Agency']"
+Resortneardisney,resortneardisney.com,4.0,138,['Lodging']
+FirstClassFlyer.com,firstclassflyer.com,3.7,138,['Travel & Vacation']
+Espíritu Travel,espiritutraveltocuba.com,4.7,137,"['Tour Operator', 'Travel Agency']"
+Skytrend,www.skytrend.us,4.5,137,['Travel Agency']
+Offpeakluxury,offpeakluxury.com,4.3,137,"['Travel Agency', 'Hotel']"
+Faresplanet,faresplanet.com,3.5,137,['Travel Agency']
+AutoRentals.com,autorentals.com,3.4,137,"['Car Accessories Store', 'Travel Aggregator', 'Car Rental Agency']"
+Always Croatia,alwayscroatia.com,4.9,135,"['Consultant', 'Tour Operator', 'Travel Agency']"
+Wanderful Holidays LLC,wanderfulholidays.com,4.7,135,['Tour Operator']
+Exclusive Business Class,exclusivebusinessclass.com,4.8,134,"['Flights Search Site', 'Travel Aggregator', 'Travel Agency']"
+Indian Evisa,indian-evisa.org,4.8,134,['Visa and Passport Office']
+Aerolíneas Argentinas,aerolineas.com.ar,2.1,134,"['Airline', 'Travel Agency', 'Flights Search Site']"
+iTrip,itrip.net,1.4,134,"['Property Management Company', 'Vacation Home Rental Agency', 'Pet-Friendly Accommodation', 'Vacation Rental', 'Holiday Home']"
+K2 Tickets,k2tickets.com,4.2,133,['Travel Agency']
+A-Passport & Visa Services,avisaservices.com,4.8,132,"['Passport Agent', 'Visa and Passport Office', 'Travel Agency', 'Passport Photo Processor', 'Passport Office', 'Visa Consultant']"
+Vagamo,vagamo.com,4.5,132,"['Airline Ticket Agency', 'Travel Agency', 'Flights Search Site']"
+Explorient Travel Services,www.explorient.com,4.9,131,"['Travel Agency', 'Cultural Tours Provider', 'Tour Operator']"
+SA Vacations,savacations.com,4.7,131,"['Travel Agency', 'Tour Operator']"
+Cheapflightbuddy,cheapflightbuddy.com,4.1,131,['Travel Agency']
+Newyorksightseeing,www.newyorksightseeing.com,1.8,131,['Travel & Vacation']
+EL EXITO,www.exito.com,1.5,131,['Travel & Vacation']
+Inspecto.com,inspecto.com,1.4,131,"['Flights Search Site', 'Travel Agency']"
+Cobalt Corporate Travel,cobaltcorporatetravel.com,4.9,130,['Travel Aggregator']
+VacationRoost,www.vacationroost.com,4.6,130,['Travel Agency']
+FareoGlobe,fareoglobe.com,,,['Travel & Vacation']
+"AskAladdin, The Egypt Experts!",www.ask-aladdin.com,4.9,129,"['Cruise Agency', 'Travel Agency', 'Cultural Tours Provider']"
+Civil War Ghosts,civilwarghosts.com,4.8,128,['Tour Operator']
+Book2park,book2park.com,1.9,128,"['Parking Lot', 'Travel Agency']"
+Adventures Croatia,www.adventurescroatia.com,4.9,127,"['Tour Agency', 'Travel Agency', 'Tour Operator']"
+Al Madinah Travels,almadinahtravels.com,4.2,127,['Travel Agency']
+Spot2Nite,spot2nite.com,3.5,127,"['Holiday Accommodation Service', 'Travel Agency', 'Recreational and Vacation Camps', 'Travel Aggregator']"
+momondo.es,momondo.es,1.2,127,['Flights Search Site']
+Running of the Bulls,www.festivalpros.com,4.8,126,"['Travel Agency', 'Tour Operator']"
+Thejerseyflights,thejerseyflights.com,4.7,126,"['Travel Agency', 'Airline Ticket Agency', 'Flights Search Site', 'Hotel', 'Tour Agency', 'Airline']"
+SkiTDS,skitds.com,4.1,126,"['Travel Agency', 'Ski Holidays']"
+HelloVacay,hellovacay.com,3.6,126,"['Travel Aggregator', 'Holiday Accommodation Service', 'Flights Search Site']"
+Trafalgar Travel,trafalgar.com,2.6,126,['Travel & Vacation']
+Your Golf There,golfthere.com,1.9,126,"['Travel Agency', 'Tour Operator']"
+Interval International,intervalworld.com,1.3,126,"['Tour Operator', 'Cultural Tours Provider', 'Travel Aggregator', 'Travel Agency']"
+Via Croatia,www.via-croatia.com,4.9,125,"['Tour Operator', 'Travel Agency']"
+Spectate,spectatetravel.co.uk,4.9,124,['Tour Operator']
+Umrah International,umrahinternational.com,4.2,124,['Travel Agency']
+Malmaison Hotels,malmaison.com,3.2,124,"['Hotel', 'Business Hotel', 'Boutique Hotel']"
+Croatia Airlines,www.croatiaairlines.com,1.9,124,"['Airline', 'Travel Agency', 'Flights Search Site']"
+Park Resorts,www.park-resorts.com,1.2,124,['Holiday Park']
+SummitCove Lodging,summitcove.com,4.8,123,"['House Cleaning Service', 'Carpet Cleaning Service', 'Cleaning Service', 'Property Management Company', 'Vacation Home Rental Agency', 'Curtain and Upholstery Cleaning Service']"
+First Fly Travel,firstflytravel.com,4.7,123,['Flights Search Site']
+Abildkro,abildkro.dk,2.9,123,['Family Hotel']
+Govt,vietnamvisa.govt.vn,4.7,122,"['Travel Agency', 'Visa Consultant']"
+Flywithcloud,flywithcloud.com,4.3,122,['Travel Agency']
+Action Tour Guide,actiontourguide.com,4.2,122,['Tour Operator']
+Webjet.co.nz,webjet.co.nz,1.3,122,"['Flights Search Site', 'Travel Agency']"
+Loyalty World Shop,loyaltyworld.ca,4.9,121,['Travel Aggregator']
+Cultural Italy,culturalitaly.com,4.7,121,['Travel Agency']
+FlightFareDeals,flightfaredeals.com,3.6,121,"['Airline Ticket Agency', 'Travel Agency']"
+HotelRunner,hotelrunner.com,3.1,121,"['Hotel', 'Travel Agency']"
+AllTrails,alltrails.com,1.7,121,"['Tour Operator', 'Travel Agency', 'Tour Agency']"
+TourHero,tourhero.com,4.5,120,['Travel Agency']
+arajet.com,arajet.com,1.6,120,"['Flights Search Site', 'Travel Agency', 'Airline Ticket Agency']"
+Miami Tour Company,miamitourcompany.com,1.4,120,"['Travel Agency', 'Tour Operator', 'Cultural Tours Provider']"
+capitalonetravel.com,www.capitalonetravel.com,1.2,120,"['Travel Aggregator', 'Travel Agency']"
+VIPFARES,www.vipfares.com,4.9,119,"['Travel Agency', 'Airline Ticket Agency', 'Flights Search Site']"
+Vfsgloble,vfsgloble.com,4.6,119,"['Visa Consultant', 'Travel Agency']"
+CUBAN TRAVEL AGENCY,cubacenter.com,3.6,119,"['Car Rental Agency', 'Travel Agency']"
+nicetours.net,nicetours.net,4.3,118,"['Cruise Travel Agency', 'Boat Tour Agency', 'Travel Agency', 'Balloon Ride Tour Agency', 'Tour Agency']"
+Travoman LLC,travoman.com,3.6,118,"['Flights Search Site', 'Tour Operator', 'Visa Consultant', 'Travel Agency']"
+Journey-Masters,www.journey-masters.com,3.2,118,['Travel Agency']
+Puppiesnation,puppiesnation.com,2.2,118,['Pet-Friendly Accommodation']
+Faresjourney,faresjourney.com,4.1,116,"['Travel Agency', 'Airline Ticket Agency']"
+Big Bear Vacations,bigbearcabins.com,2.3,116,"['Travel Agency', 'Vacation Rental']"
+Norweigan,norweigan.com,1.6,116,"['Travel Agency', 'Flights Search Site', 'Tour Operator']"
+FlashCoast a Promodealer Company,flashcoast.com,4.7,115,['Travel Agency']
+All Travel,all-travel.com,4.6,115,['Travel Agency']
+Military Flight Travel,militaryflighttravel.com,4.1,115,"['Flights Search Site', 'Travel Agency']"
+Aconsumercredit™ LLC,aconsumercredit.com,1.8,115,['Travel Agency']
+Elite Vacation Homes,elitevacationhomes.com,1.5,115,"['Travel Agency', 'Vacation Rental']"
+Blue Pacific Vacation Rentals,www.bluepacificvacationrentals.com,1.2,115,"['Travel Agency', 'Vacation Rental']"
+"VOMOS, Inc.",vomos.com,4.9,114,['Travel Agency']
+Travelner Insurance Agency,travelner.com,4.5,114,"['Travel Insurance Company', 'Airline Ticket Agency', 'Holiday Accommodation Service']"
+Аэрофлот,aeroflot.com,1.8,114,"['Airline', 'Travel Agency', 'Flights Search Site']"
+Costco Travel,www.costcotravel.com,1.8,114,"['Travel Aggregator', 'Tour Operator', 'Travel Agency', 'Cruise Agency']"
+Us Immigrationsupport,us-immigrationsupport.org,1.7,114,"['Visa Consultant', 'Travel Agency', 'Travel Aggregator', 'Visa and Passport Office']"
+usagco.org,usagco.org,1.4,114,['Visa Consultant']
+RewardStock,rewardstock.com,4.5,113,['Travel Agency']
+Skies are Business,skiesarebusiness.com,4.5,113,['Travel Agency']
+puntacanaadventures.com,puntacanaadventures.com,4.3,112,['Tour Agency']
+FlyEgypt,flyegypt.today,1.7,112,"['Airline', 'Travel Agency', 'Flights Search Site']"
+LATAM Airlines,www.lan.com,1.4,112,"['Flights Search Site', 'Airline', 'Travel Agency']"
+EA Tours,eatours.com,4.9,111,"['Cultural Tours Provider', 'Travel Agency']"
+Bamba Travel,bambatravel.com,4.9,111,"['Travel Agency', 'Tour Operator']"
+Favisbook,favisbook.com,4.2,111,['Travel Agency']
+Hilton Hotels & Resorts,hamptoninn3.hilton.com,2.0,111,"['Hotel', 'Family Hotel']"
+United Airlines,unitedairlines.com,1.8,111,"['Airline', 'Flights Search Site', 'Travel Agency', 'Airport']"
+Jet Airways,www.jetairways.com,1.2,111,"['Travel Agency', 'Airline', 'Tour Operator', 'Flights Search Site']"
+Fast Passport Center,fastpassportcenter.com,4.7,109,"['Association or Organization', 'Municipal Administration Office', 'Visa and Passport Office']"
+Silver Breeze Travel,silverbreezetravels.com,4.2,109,['Travel Agency']
+Ardenne Residences,www.ardenneresidences.com,4.2,109,"['Holiday Home', 'Vacation Home Rental Agency', 'Cottage', 'Holiday Accommodation Service', 'Vacation Rental']"
+My Flight Mart,myflightmart.com,3.0,109,['Airline Ticket Agency']
+forbiser.com,www.forbiser.com,2.9,109,['Travel Agency']
+"Bangkok Airways
+บางกอกแอร์เวยส์",www.bangkokair.com,2.4,109,"['Airline', 'Flights Search Site', 'Travel Agency']"
+Modern Travelworks | Modern Destination Weddings,moderndestinationweddings.com,4.8,108,['Travel Agency']
+Zegrahm Expeditions,www.zegrahm.com,4.7,108,['Travel Agency']
+DreamTrips,dreamtrips.com,2.4,108,"['Travel Agency', 'Tour Operator', 'Tour Agency', 'Travel Aggregator']"
+Happyrooms.com,happyrooms.com,2.5,107,"['Travel Agency', 'Hotel']"
+Walks of Italy,www.walksofitaly.com,2.2,107,"['Travel Agency', 'Tour Operator']"
+Salem Ghosts,salemghosts.com,4.8,106,['Tour Operator']
+Book My Travelin,bookmytravelin.com,4.7,106,['Flights Search Site']
+Bookflightickets,bookflightickets.com,4.9,105,"['Flights Search Site', 'Travel Agency']"
+Baboo Travel,baboo.travel,4.8,105,"['Tour Agency', 'Travel Agency', 'Tour Operator']"
+Orgmytrip,orgmytrip.com,4.2,105,['Travel Agency']
+Siampark,www.siampark.net,1.9,105,"['Amusement Center', 'Travel Agency', 'Tour Operator']"
+Liftopia,liftopia.com,1.8,105,"['Ski Holidays', 'Travel Agency']"
+Chico's,www.chicos.com,1.8,105,['Travel Agency']
+TravelReImagine,travelreimagine.com,1.2,105,['Travel & Vacation']
+Cool Key West,coolkeywest.com,4.9,104,"['Tourist Information Center', 'Tour Agency', 'Boat Tour Agency', 'Bus Tour Agency', 'Sightseeing Tour Agency']"
+PacificIslands.com,pacificislands.com,4.1,104,"['Tour Operator', 'Travel Agency']"
+Cruisemiles.Com,www.cruisemiles.com,2.7,104,['Travel Agency']
+United,www.united.com,1.5,104,"['Airline', 'Flights Search Site', 'Car Accessories Store', 'Travel Agency']"
+Glamping Hub,glampinghub.com,1.4,104,"['Travel Agency', 'Pet-Friendly Accommodation', 'Vacation Rental', 'Holiday Accommodation Service']"
+Athletes USA,athletesusa.org,4.9,103,"['Sport Tour Agency', 'Career and Education Provider']"
+H&S Travel & Tours,www.2mycountry.com,4.8,103,['Travel & Vacation']
+Reservecalifornia,reservecalifornia.com,1.3,103,"['Lodging', 'Camping Store', 'Pet-Friendly Accommodation', 'Vacation Rental']"
+Buckingham Luxury Vacation Rentals,buckinghamtahoerentals.com,4.3,102,"['Vacation Rental', 'Travel Agency']"
+Descapada,descapada.com,4.2,102,"['Travel Aggregator', 'Tour Operator', 'Tour Agency', 'Travel Agency']"
+Oru Kayak,www.orukayak.com,2.8,102,['Travel & Vacation']
+TRIPOMATE,www.tripomate.com,1.7,102,"['Travel Aggregator', 'Travel Agency']"
+Flo Tours,www.flotours.com,4.9,101,"['Travel Agency', 'Tour Operator']"

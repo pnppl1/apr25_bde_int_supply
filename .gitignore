@@ -1,0 +1,5 @@
+group_project_py/
+__pycache__/
+.ipynb_checkpoints/
+scraping_2025-05-13.ipynb
+df_version_202505191015.csv
