@@ -15,6 +15,8 @@ In order to get the review classes (Percentage of reviews being 5 star, 4 star a
 
 ### Part 3: Scraping Reviews
 
+Implementation of this step can be found in [reviews_extracting/review_table.ipynb](https://github.com/pnppl1/apr25_bde_int_supply/blob/main/reviews_extracting/review_table.ipynb) file.
+The data from the reviews page of the chosen category was extracted to get the list of companies with a review number higher than 10,000. It was extracted with the BeautifulSoup function, searching for specific elements and attributes. For every company, the reviews with the name, country, review title, text, rating (in number of stars), and whether the company replied to the review were collected. The information resulted in a [CSV](https://github.com/pnppl1/apr25_bde_int_supply/blob/main/reviews_extracting/trustpilot_reviews_2.csv) file with 21,000 reviews.
 
 ### Part 4: Merging tables
 
