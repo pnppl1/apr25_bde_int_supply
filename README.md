@@ -1,6 +1,6 @@
 # apr25_bde_int_supply
 # trustpilot customer satisfaction
-This repository is a Data Engineering group project aimed at analyzing the customer satisfaction of comanies operating in the travel industry. 
+This repository is a Data Engineering group project aimed at analyzing the customer satisfaction of companies operating in the travel industry. 
 The project is organized the followingwise.
 
 #### Step 1 : Data Collection (Done)
