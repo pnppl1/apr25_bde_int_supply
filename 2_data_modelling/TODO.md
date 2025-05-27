@@ -9,3 +9,13 @@ A relational database
 UML Diagram 
 A file who creates and queries the SQL database .
 Same files for a Elastic/Mongo/ DataBase
+
+____
+You will be asked to organise the data via different databases:
+Relational
+NoSQL
+You will have to think about the data architecture, including how to link the different data together.
+Deliverable :
+Any document explaining the chosen architecture (UML diagram)
+File implementing the databases
+Query file
