@@ -6,12 +6,12 @@ We decided for the travel industry, since it offers a  lot of companies with man
 
 ### Part 1: Scraping General Info
 
-In scrapeing_general_info.ipynb we scrape general info, this was done by iterating over each of the pages from trustpilot and extracting the company "cards" via beautiful soup. In this cards we extract the information of interest. Namely company-name, company-website, trustscore, number of reviews, operating domains. 
+In scraping_general_info.ipynb we scrape general info, this was done by iterating over each of the pages from trustpilot and extracting the company "cards" via beautiful soup. In ththeseis cards we extract the information of interest. Namely company-name, company-website, trustscore, number of reviews, operating domains. 
 
 
 ### Part 2: Scraping Review Classes
 
-In order to get the review classes (Percentage of reviews being 5 star, 4 star and 3,2,1 respectively), we will need to open each company website to extract that information. This will happen in the scraping_review_classes.ipynb files. In this case, since we need to request over 1000  websites in a short time period, we encountered the issue of 403, i.e. Trustpilot blocking our IP. Probably due to too many requests. This might lead to buggy reproducability. 
+In order to get the review classes (percentage of reviews being 5 star, 4 star and 3,2,1 respectively), we will need to open each company website to extract that information. This will happen in the scraping_review_classes.ipynb files. In this case, since we need to request over 1000  websites in a short time period, we encountered the issue of 403, i.e. Trustpilot blocking our IP. Probably due to too many requests.
 
 ### Part 3: Scraping Reviews
 
@@ -20,12 +20,4 @@ The data from the reviews page of the chosen category was extracted to get the l
 
 ### Part 4: Merging tables
 
-In merge_dataframes.ipynb we merge all tables.
-
-
-### remaining TODO list:
-
-##### imrpove general info ipynb for clarity (mixed languages etc.)
-##### introduce file structure
-##### convert to .ipnby to .py files
-##### ?
+In merge_dataframes.ipynb we merge all tables on column "website" as key.
