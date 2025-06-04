@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:14
+    container_name: trustpilot_pg
+    environment:
+      POSTGRES_DB: trustpilot
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+        - ./initialize_database:/docker-entrypoint-initdb.d
