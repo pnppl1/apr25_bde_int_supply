@@ -39,6 +39,7 @@ CREATE TABLE rating (
 
 -- Create Review table
 CREATE TABLE review (
+    id SERIAL PRIMARY KEY,
     website VARCHAR(255) NOT NULL,
     name VARCHAR(255),
     country VARCHAR(100),

@@ -1,7 +1,13 @@
 /* -----------------------------------------------------------
    03_transformations.sql
+   - Adjust numeric columns
+   - Transform raw values to numbers
    - Percentage-Strings ("98%", "<1%") to DECIMAL(5,2) 
-   - fill fields with entry of "<1%" from remaining percentages
+   - Fill fields with entry of "<1%" from remaining percentages
+   - Remove extra fields in reviews table (filled with NULL)
+   - Fill missing 'name' field in review table
+   - Delete empty ratings (one row)
+   - 
    ----------------------------------------------------------- */
 
 BEGIN;
@@ -35,31 +41,44 @@ SET star_5_pct = NULLIF(regexp_replace("5_star_percentage", '[%<]', '', 'g'), ''
     star_1_pct = NULLIF(regexp_replace("1_star_percentage", '[%<]', '', 'g'), '')::DECIMAL;
 
 ----------------------------------------------------------------
--- 3) distribute remaining percentages
+-- 3) Distribute remaining percentages
 ----------------------------------------------------------------
-WITH sums AS (
-  SELECT  website,
-          COALESCE(star_5_pct,0) + COALESCE(star_4_pct,0) +
-          COALESCE(star_3_pct,0) + COALESCE(star_2_pct,0) +
-          COALESCE(star_1_pct,0) AS pct_sum,
-          (CASE WHEN star_5_pct IS NULL THEN 1 ELSE 0 END +
-           CASE WHEN star_4_pct IS NULL THEN 1 ELSE 0 END +
-           CASE WHEN star_3_pct IS NULL THEN 1 ELSE 0 END +
-           CASE WHEN star_2_pct IS NULL THEN 1 ELSE 0 END +
-           CASE WHEN star_1_pct IS NULL THEN 1 ELSE 0 END) AS null_cnt
+WITH base AS (
+  SELECT website,
+         CASE WHEN TRIM("5_star_percentage") LIKE '<%' THEN NULL ELSE regexp_replace("5_star_percentage", '[%<]', '', 'g')::DECIMAL END AS star_5,
+         CASE WHEN TRIM("4_star_percentage") LIKE '<%' THEN NULL ELSE regexp_replace("4_star_percentage", '[%<]', '', 'g')::DECIMAL END AS star_4,
+         CASE WHEN TRIM("3_star_percentage") LIKE '<%' THEN NULL ELSE regexp_replace("3_star_percentage", '[%<]', '', 'g')::DECIMAL END AS star_3,
+         CASE WHEN TRIM("2_star_percentage") LIKE '<%' THEN NULL ELSE regexp_replace("2_star_percentage", '[%<]', '', 'g')::DECIMAL END AS star_2,
+         CASE WHEN TRIM("1_star_percentage") LIKE '<%' THEN NULL ELSE regexp_replace("1_star_percentage", '[%<]', '', 'g')::DECIMAL END AS star_1,
+
+         CASE WHEN TRIM("5_star_percentage") LIKE '<%' THEN 1 ELSE 0 END AS is_5_less,
+         CASE WHEN TRIM("4_star_percentage") LIKE '<%' THEN 1 ELSE 0 END AS is_4_less,
+         CASE WHEN TRIM("3_star_percentage") LIKE '<%' THEN 1 ELSE 0 END AS is_3_less,
+         CASE WHEN TRIM("2_star_percentage") LIKE '<%' THEN 1 ELSE 0 END AS is_2_less,
+         CASE WHEN TRIM("1_star_percentage") LIKE '<%' THEN 1 ELSE 0 END AS is_1_less
   FROM rating
+), calc AS (
+  SELECT *,
+         COALESCE(star_5, 0) + COALESCE(star_4, 0) + COALESCE(star_3, 0) + COALESCE(star_2, 0) + COALESCE(star_1, 0) AS sum_known,
+         (is_5_less + is_4_less + is_3_less + is_2_less + is_1_less) AS null_count
+  FROM base
+), final AS (
+  SELECT website,
+         COALESCE(star_5, CASE WHEN is_5_less = 1 THEN ROUND((100 - sum_known)::NUMERIC / NULLIF(null_count, 0), 2) END) AS star_5_pct,
+         COALESCE(star_4, CASE WHEN is_4_less = 1 THEN ROUND((100 - sum_known)::NUMERIC / NULLIF(null_count, 0), 2) END) AS star_4_pct,
+         COALESCE(star_3, CASE WHEN is_3_less = 1 THEN ROUND((100 - sum_known)::NUMERIC / NULLIF(null_count, 0), 2) END) AS star_3_pct,
+         COALESCE(star_2, CASE WHEN is_2_less = 1 THEN ROUND((100 - sum_known)::NUMERIC / NULLIF(null_count, 0), 2) END) AS star_2_pct,
+         COALESCE(star_1, CASE WHEN is_1_less = 1 THEN ROUND((100 - sum_known)::NUMERIC / NULLIF(null_count, 0), 2) END) AS star_1_pct
+  FROM calc
 )
-UPDATE rating
-SET star_5_pct = CASE WHEN "5_star_percentage" LIKE '<%' THEN NULL
-                      ELSE regexp_replace("5_star_percentage", '[%<]', '', 'g')::DECIMAL END,
-    star_4_pct = CASE WHEN "4_star_percentage" LIKE '<%' THEN NULL
-                      ELSE regexp_replace("4_star_percentage", '[%<]', '', 'g')::DECIMAL END,
-    star_3_pct = CASE WHEN "3_star_percentage" LIKE '<%' THEN NULL
-                      ELSE regexp_replace("3_star_percentage", '[%<]', '', 'g')::DECIMAL END,
-    star_2_pct = CASE WHEN "2_star_percentage" LIKE '<%' THEN NULL
-                      ELSE regexp_replace("2_star_percentage", '[%<]', '', 'g')::DECIMAL END,
-    star_1_pct = CASE WHEN "1_star_percentage" LIKE '<%' THEN NULL
-                      ELSE regexp_replace("1_star_percentage", '[%<]', '', 'g')::DECIMAL END;
+UPDATE rating r
+SET star_5_pct = f.star_5_pct,
+    star_4_pct = f.star_4_pct,
+    star_3_pct = f.star_3_pct,
+    star_2_pct = f.star_2_pct,
+    star_1_pct = f.star_1_pct
+FROM final f
+WHERE r.website = f.website;
 -- FROM sums s
 -- WHERE r.website = s.website
 --   AND s.null_cnt > 0;         
@@ -73,5 +92,30 @@ SET star_5_pct = CASE WHEN "5_star_percentage" LIKE '<%' THEN NULL
 --   DROP COLUMN "3_star_percentage",
 --   DROP COLUMN "2_star_percentage",
 --   DROP COLUMN "1_star_percentage";
+
+----------------------------------------------------------------
+-- 5) Remove extra fields in reviews table
+----------------------------------------------------------------
+DELETE FROM review
+WHERE name IS NULL AND date_of_experience IS NULL;
+
+----------------------------------------------------------------
+-- 6) Fill missing 'name' field in review table
+----------------------------------------------------------------
+UPDATE review                            
+SET name = 'customer'
+WHERE name IS NULL;
+
+----------------------------------------------------------------
+-- 7) Delete empty ratings (one row)
+----------------------------------------------------------------
+DELETE FROM rating 
+WHERE star_5_pct IS NULL
+  AND star_4_pct IS NULL
+  AND star_3_pct IS NULL
+  AND star_2_pct IS NULL
+  AND star_1_pct IS NULL;
+
+
 
 COMMIT;
