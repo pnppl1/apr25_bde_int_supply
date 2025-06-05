@@ -49,20 +49,20 @@ WITH sums AS (
            CASE WHEN star_1_pct IS NULL THEN 1 ELSE 0 END) AS null_cnt
   FROM rating
 )
-UPDATE rating r
-SET star_5_pct = COALESCE(star_5_pct,
-                          ROUND( (100 - s.pct_sum) / s.null_cnt, 2)),
-    star_4_pct = COALESCE(star_4_pct,
-                          ROUND( (100 - s.pct_sum) / s.null_cnt, 2)),
-    star_3_pct = COALESCE(star_3_pct,
-                          ROUND( (100 - s.pct_sum) / s.null_cnt, 2)),
-    star_2_pct = COALESCE(star_2_pct,
-                          ROUND( (100 - s.pct_sum) / s.null_cnt, 2)),
-    star_1_pct = COALESCE(star_1_pct,
-                          ROUND( (100 - s.pct_sum) / s.null_cnt, 2))
-FROM sums s
-WHERE r.website = s.website
-  AND s.null_cnt > 0;         
+UPDATE rating
+SET star_5_pct = CASE WHEN "5_star_percentage" LIKE '<%' THEN NULL
+                      ELSE regexp_replace("5_star_percentage", '[%<]', '', 'g')::DECIMAL END,
+    star_4_pct = CASE WHEN "4_star_percentage" LIKE '<%' THEN NULL
+                      ELSE regexp_replace("4_star_percentage", '[%<]', '', 'g')::DECIMAL END,
+    star_3_pct = CASE WHEN "3_star_percentage" LIKE '<%' THEN NULL
+                      ELSE regexp_replace("3_star_percentage", '[%<]', '', 'g')::DECIMAL END,
+    star_2_pct = CASE WHEN "2_star_percentage" LIKE '<%' THEN NULL
+                      ELSE regexp_replace("2_star_percentage", '[%<]', '', 'g')::DECIMAL END,
+    star_1_pct = CASE WHEN "1_star_percentage" LIKE '<%' THEN NULL
+                      ELSE regexp_replace("1_star_percentage", '[%<]', '', 'g')::DECIMAL END;
+-- FROM sums s
+-- WHERE r.website = s.website
+--   AND s.null_cnt > 0;         
 
 ----------------------------------------------------------------
 -- 4) (Optional) old TEXT-columns cleaned
