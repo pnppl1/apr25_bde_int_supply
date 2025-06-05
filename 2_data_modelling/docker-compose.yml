@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   db:
     image: postgres:14
@@ -11,4 +9,9 @@ services:
     ports:
       - "5432:5432"
     volumes:
-        - ./initialize_database:/docker-entrypoint-initdb.d
+      - ./initialize_database:/docker-entrypoint-initdb.d:ro
+      - ../1_data_collection:/import:ro
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
