@@ -6,11 +6,11 @@
 CREATE TEMP TABLE raw_review (
   name                  TEXT,
   country               TEXT,
-  rating_x              SMALLINT,
+  rating_x              NUMERIC(2,1),
   title                 TEXT,
   text                  TEXT,
   date_of_experience    DATE,
-  has_reply             SMALLINT,
+  has_reply             TEXT,
   company_x             TEXT,
   company_y             TEXT,
   website               TEXT,
@@ -107,7 +107,7 @@ SELECT
        title,
        text,
        date_of_experience,
-       (has_reply = 1)      -- INTEGER → BOOLEAN
+       (has_reply = '1.0')      -- → BOOLEAN
 FROM   raw_review;
 
 
