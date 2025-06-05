@@ -60,7 +60,7 @@ CREATE TABLE company_domain (
 );
 
 
--- Add comments for documentation
+-- comments for documentation
 COMMENT ON TABLE company IS 'Stores company information including website, name, trust score and review count';
 COMMENT ON TABLE domain IS 'Stores unique domain/industry categories';
 COMMENT ON TABLE rating IS 'Stores percentage distribution of star ratings for each company';
@@ -72,8 +72,3 @@ COMMENT ON COLUMN company.trust_score IS 'Trust score of the company (0.00 to 5.
 COMMENT ON COLUMN company.number_review IS 'Total number of reviews for this company';
 COMMENT ON COLUMN review.rating IS 'Star rating given by reviewer (1-5)';
 COMMENT ON COLUMN review.has_reply IS 'Whether the company replied to this review';
--- COMMENT ON COLUMN rating.star_5_percentage IS 'Percentage of 5-star reviews';
--- COMMENT ON COLUMN rating.star_4_percentage IS 'Percentage of 4-star reviews';
--- COMMENT ON COLUMN rating.star_3_percentage IS 'Percentage of 3-star reviews';
--- COMMENT ON COLUMN rating.star_2_percentage IS 'Percentage of 2-star reviews';
--- COMMENT ON COLUMN rating.star_1_percentage IS 'Percentage of 1-star reviews';
