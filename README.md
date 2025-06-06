@@ -8,6 +8,20 @@ Collection of two types of data through web scraping with BeautifulSoup. One gat
 
 #### Step 2 : Data Modelling (Work in progress)
 Organizing the data into database.
+- **Domain frequency and IDs**: Domains were grouped and counted by frequency. A new unique domain ID was generated in the format `<rank>_<count>`, where:
+  - `rank` is the frequency rank (1 for most common),
+  - `count` is the number of times the domain appears in the dataset.
+
+- **Domain Table**: Created a `Domain` table with:
+  - `domain_id`: primary key in the format "rank_count" (e.g., `1_721`),
+  - `domain`: cleaned domain name.
+
+- **Company_Domain Table**: Created a `Company_Domain` linking table with:
+  - `website` (foreign key from `Company`),
+  - `domain_id` (foreign key from `Domain`).
+
+These tables establish a many-to-many relationship between companies and domains and prepare the data for normalized insertion into the final database schema.
+
 
 #### Step 3 : Data Consumption
 Performing a sentiment analysis using Machine Learninig and produce a Dashboard displaying the different ratings of the companies.
