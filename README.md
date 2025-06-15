@@ -12,3 +12,8 @@ Organizing the data into a relational database using Postgresql and Docker. We i
 #### Step 3 : Data Consumption (Work in Progress)
 Performing a sentiment analysis using Machine Learninig and produce a Dashboard displaying the different ratings of the companies.
 
+#### Step 4 : Deployment
+We will create an API.
+
+#### Step 5 : Automation
+We will automate the steps creating a Pipeline.
