@@ -4,3 +4,5 @@ __pycache__/
 df_version_202505191015.csv
 sketch_notebooks
 venv_20250527
+log.txt
+ml_test_env
