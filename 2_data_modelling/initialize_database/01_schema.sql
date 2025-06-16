@@ -24,11 +24,6 @@ CREATE TABLE domain (
 -- Create Rating table (star percentages for each company)
 CREATE TABLE rating (
     website VARCHAR(255) PRIMARY KEY,
-    -- star_5_percentage DECIMAL(5,2),
-    -- star_4_percentage DECIMAL(5,2),
-    -- star_3_percentage DECIMAL(5,2),
-    -- star_2_percentage DECIMAL(5,2),
-    -- star_1_percentage DECIMAL(5,2),
     "5_star_percentage" TEXT,
     "4_star_percentage" TEXT,
     "3_star_percentage" TEXT,
