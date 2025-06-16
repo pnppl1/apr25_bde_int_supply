@@ -49,11 +49,6 @@ SELECT DISTINCT
 "3_star_percentage",
 "2_star_percentage",
 "1_star_percentage"
-       -- CAST(regexp_replace("5_star_percentage", '%', '', 'g') AS TEXT),
-       -- CAST(regexp_replace("4_star_percentage", '%', '', 'g') AS TEXT),
-       -- CAST(regexp_replace("3_star_percentage", '%', '', 'g') AS TEXT),
-       -- CAST(regexp_replace("2_star_percentage", '%', '', 'g') AS TEXT),
-       -- CAST(regexp_replace("1_star_percentage", '%', '', 'g') AS TEXT)
 FROM   raw_review;
 
 
