@@ -16,9 +16,9 @@ Performing a sentiment analysis with VADER, TextBlob and BERT and produce a Dash
 Recovering the work of Data Scientist to make an API of the best performing and leightweight model. Couple the API with Dash to have a "report" of the company.
 Dockerizing all the project.
 
-Docker container is accessible with:
-    ```docker build -t reviews_scraping .
-        docker run -d -p 8081:8081 reviews_scraping```
+Docker container is accessible with:<br>
+    ``` docker build -t reviews_scraping .``` <br>
+    ``` docker run -d -p 8081:8081 reviews_scraping```
 
 #### Step 5 : Automation (In progress)
 We will automate the steps creating a Pipeline.
