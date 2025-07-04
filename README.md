@@ -9,11 +9,16 @@ Collection of two types of data through web scraping with BeautifulSoup. One gat
 #### Step 2 : Data Modelling (Done)
 Organizing the data into a relational database using Postgresql and Docker. We implement a schema regarding our Diagram and insert the tables given our scraped data. 
 
-#### Step 3 : Data Consumption (Work in Progress)
-Performing a sentiment analysis using Machine Learninig and produce a Dashboard displaying the different ratings of the companies.
+#### Step 3 : Data Consumption (Done)
+Performing a sentiment analysis with VADER, TextBlob and BERT and produce a Dashboard displaying the different ratings of the companies.
 
-#### Step 4 : Deployment
-We will create an API.
+#### Step 4 : Deployment (Done)
+Recovering the work of Data Scientist to make an API of the best performing and leightweight model. Couple the API with Dash to have a "report" of the company.
+Dockerizing all the project.
 
-#### Step 5 : Automation
+Docker container is accessible with:
+    ```docker build -t reviews_scraping .
+        docker run -d -p 8081:8081 reviews_scraping```
+
+#### Step 5 : Automation (In progress)
 We will automate the steps creating a Pipeline.
