@@ -77,6 +77,5 @@ df_reviews = pd.DataFrame(df_prep)
 #quick look
 print(df_reviews.isna().sum())
 
-
 # df_reviews.to_csv("review_classes.csv",index=False)
 

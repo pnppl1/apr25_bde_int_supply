@@ -5,29 +5,23 @@ from bs4 import BeautifulSoup
 import time
 from datetime import datetime
 import csv
-import pandas as pd
 
 headers = {
-    'User-Agent': 'Mozilla/5.0'
+    "User-Agent": "Mozilla/5.0"
 }
 
-# ## Search companies with over 10k reviews
 # Base URL for the Trustpilot travel agency category, sorted by review count, paginated
-base_url_over_10k = "https://www.trustpilot.com/categories/travel_agency?sort=reviews_count&page="
-
+base_url = "https://www.trustpilot.com/categories/travel_agency?sort=reviews_count&page="
 # This list will store companies that meet the 10,000+ reviews threshold
 companies = []
-
-# Start from the first page
 page = 1
 
 while True:
-    url = f"{base_url_over_10k}{page}"
+    url = f"{base_url}{page}"
     print(f"Scraping page {page}...")
 
     # Send GET request to the page with headers
     response = requests.get(url, headers=headers)
-
     # Exit loop if the page fails to load
     if response.status_code != 200:
         print(f"Failed to load page {page}")
@@ -35,7 +29,6 @@ while True:
 
     # Parse HTML content
     soup = BeautifulSoup(response.text, 'lxml')
-
     # Extract all company cards (each one is an <a> element with name='business-unit-card')
     cards = soup.find_all("a", attrs={"name": "business-unit-card"})
 
@@ -43,7 +36,7 @@ while True:
     if not cards:
         print("No more companies found.")
         break
-
+    
     # Flag to determine whether we should stop after this page
     stop = False
 
@@ -110,12 +103,24 @@ print(f"\nTotal companies with over 10,000 reviews: {len(companies)}")
 # ### Function for scraping the review data from the page of a company
 # Function to extract reviews from a BeautifulSoup-parsed review page
 def extract_reviews(soup):
-    # Find all review article elements on the page
-    articles = soup.find_all('article', attrs={"data-service-review-card-paper": True})
     reviews = []
+    articles = soup.find_all("article")
 
-    # Loop through each review article
     for article in articles:
+        # Get time label like "15 hours ago" or "2 days ago"
+        try:
+            time_tag = article.find("time", attrs={"data-service-review-date-time-ago": "true"})
+            if not time_tag:
+                continue
+            time_text = time_tag.get_text(strip=True)
+
+            # Skip if it's not from today (e.g. "2 days ago")
+            if not time_text.endswith("hours ago"):
+                continue
+        except Exception:
+            continue
+
+        # If it's recent enough, continue extracting the rest
         try:
             # Extract reviewer's name
             name = article.find('span', attrs={"data-consumer-name-typography": True}).get_text(strip=True)
@@ -150,15 +155,17 @@ def extract_reviews(soup):
             continue  # Skip this review if there's no text
 
         try:
-            # Extract and parse the date of experience, if available
             raw_text = article.find('p', attrs={"data-service-review-date-of-experience-typography": True}).get_text(strip=True)
             if raw_text.startswith("Date of experience:"):
                 raw_date = raw_text.replace("Date of experience:", "").strip()
-                date = datetime.strptime(raw_date, "%B %d, %Y").date()
+                date_obj = datetime.strptime(raw_date, "%B %d, %Y").date()
+                if date_obj != datetime.today().date():
+                    continue
+                date = date_obj
             else:
-                date = None
+                continue
         except Exception:
-            date = None
+            continue
 
         try:
             # Check if the company replied to the review
@@ -222,7 +229,7 @@ for i, company_url in enumerate(company_links):
 
 # ### Save to CSV
 # Save reviews to CSV
-csv_file = 'trustpilot_reviews_2.csv'
+csv_file = 'trustpilot_reviews_daily.csv'
 
 if all_reviews:
     # Open the CSV file in write mode
