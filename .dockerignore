@@ -1,0 +1,29 @@
+# Bytecode und Python-Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter-Checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs und temporäre Dateien
+*.log
+*.tmp
+*.DS_Store
+
+# CSV- und Daten-Dateien
+*.csv
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+
+# Lokale virtuelle Umgebung
+project_env_july_09/
+
+# IDE und Systemdateien
+.vscode/
+.idea/
+.env
+*.env
