@@ -95,7 +95,7 @@ def analyze_text(n_clicks, text):
     if not text:
         return ""
     try:
-        response = requests.post("http://localhost:8081/predict", json={"text": text})
+        response = requests.post("http://sentiment_api:8081/predict", json={"text": text})
         result = response.json()
         return html.Div([
             html.P(f"Compound: {result['compound']:.3f}"),
@@ -136,4 +136,5 @@ def update_company_graphs(selected_company):
 
 # Run app
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=8050, debug=True)
+
